@@ -23,6 +23,16 @@ const TemplateWrapper = ({ children }) => (
     >
       {children()}
     </div>
+    <div
+      style={{
+        position: "absolute",
+        top: "60%",
+        left: "50%",
+        transform: "translate(-50%, -50%)"
+      }}
+    >
+      <h3>keep coming back.</h3>
+    </div>
   </div>
 );
 
