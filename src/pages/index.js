@@ -19,7 +19,7 @@ class IndexPage extends React.Component {
               cursor={{ hideWhenDone: true, blink: true }}
               startDelay={1600}
             >
-              son
+              {/* son
               <Typist.Delay ms={500} />
               <Typist.Backspace count={5} delay={1000} />
               <Typist.Delay ms={750} />
@@ -27,10 +27,10 @@ class IndexPage extends React.Component {
               <Typist.Delay ms={500} />
               <Typist.Backspace count={7} delay={1000} />
               <Typist.Delay ms={1250} />
-              friend
+              friend 
               <Typist.Delay ms={500} />
               <Typist.Backspace count={6} delay={1000} />
-              <Typist.Delay ms={1250} />
+              <Typist.Delay ms={1250} />*/}
               software developer
             </Typist>
           </div>
