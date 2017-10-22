@@ -1,15 +1,15 @@
 {
-  "name": "gatsby-starter-default",
-  "description": "Gatsby default starter",
+  "name": "sachin-maharana",
+  "description": "mysite",
   "version": "1.0.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Sachin Maharana",
   "dependencies": {
     "gatsby": "^1.9.73",
     "gatsby-link": "^1.6.22",
     "gatsby-plugin-favicon": "^1.0.0",
     "gatsby-plugin-react-helmet": "^1.0.8",
     "gatsby-plugin-typography": "^1.7.10",
-    "react-typist": "^2.0.2",
+    "react-typist": "^2.0.4",
     "typography-theme-bootstrap": "^0.16.7",
     "typography-theme-lawton": "^0.15.10"
   },

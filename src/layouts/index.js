@@ -4,6 +4,29 @@ import Link from "gatsby-link";
 import Helmet from "react-helmet";
 import favicon from "../favicon.png";
 
+const ListLink = props => (
+  <li
+    style={{
+      display: `inline-block`,
+      marginRight: `1rem`
+    }}
+  >
+    <Link
+      to={props.to}
+      style={{
+        color: "hsla(0,0%,0%,0.8)",
+        fontFamily: "Libre Baskerville,serif",
+        fontWeight: "400",
+        wordWrap: "break-word",
+        fontKerning: "normal",
+        fontSize: "0.92rem"
+      }}
+    >
+      {props.children}
+    </Link>
+  </li>
+);
+
 const TemplateWrapper = ({ children }) => (
   <div>
     <Helmet>
@@ -21,6 +44,20 @@ const TemplateWrapper = ({ children }) => (
         paddingTop: 0
       }}
     >
+      <header>
+        <ul
+          style={{
+            listStyle: `none`,
+            float: `right`,
+            color: "inherit",
+            paddingTop: "0.6rem",
+            marginRight: "1.5rem"
+          }}
+        >
+          <ListLink to="#">home</ListLink>
+          <ListLink to="#">books</ListLink>
+        </ul>
+      </header>
       {children()}
     </div>
     <div
