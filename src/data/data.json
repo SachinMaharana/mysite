@@ -1,0 +1,931 @@
+{
+  "data": {
+    "user": {
+      "name": "Sachin Maharana",
+      "lastActive": "10/2017",
+      "friendsNo": "31",
+      "reviewsCount": "146",
+      "userShelves": {
+        "read": "60",
+        "currentlyReading": "5",
+        "toRead": "81"
+      },
+      "userStatus": [
+        {
+          "percentRead": "28",
+          "book": {
+            "title": "The Grace of Kings (The Dandelion Dynasty, #1)",
+            "numPages": "623",
+            "authors": "Ken Liu"
+          }
+        },
+        {
+          "percentRead": "48",
+          "book": {
+            "title": "Paternus (Paternus, #1)",
+            "numPages": "464",
+            "authors": "Dyrk Ashton"
+          }
+        },
+        {
+          "percentRead": "41",
+          "book": {
+            "title": "Norse Mythology",
+            "numPages": "297",
+            "authors": "Neil Gaiman"
+          }
+        }
+      ],
+      "read": [
+        {
+          "book": {
+            "title": "Retribution Falls (Tales of the Ketty Jay, #1)",
+            "numOfPages": "380",
+            "authors": "Chris Wooding",
+            "link":
+              "https://www.goodreads.com/book/show/6285903-retribution-falls",
+            "publicationYear": "2009",
+            "averageRating": "3.98",
+            "ratingCount": "7149",
+            "description":
+              "Sky piracy is a bit out of Darian Frey’s league. Fate has not been kind to the captain of the airship Ketty Jay—or his motley crew. They are all running from something. Crake is a daemonist in hiding, traveling with an armored golem and burdened by guilt. Jez is the new navigator, desperate to keep her secret from the rest of the crew. Malvery is a disgraced doctor, drinking himself to death. So when an opportunity arises to steal a chest of gems from a vulnerable airship, Frey can’t pass it up. It’s an easy take—and the payoff will finally make him a rich man.<br /><br />But when the attack goes horribly wrong, Frey suddenly finds himself the most wanted man in Vardia, trailed by bounty hunters, the elite Century Knights, and the dread queen of the skies, Trinica Dracken. Frey realizes that they’ve been set up to take a fall but doesn’t know the endgame. And the ultimate answer for captain and crew may lie in the legendary hidden pirate town of Retribution Falls. That’s if they can get there without getting blown out of the sky."
+          }
+        },
+        {
+          "book": {
+            "title": "Headhunters",
+            "numOfPages": "265",
+            "authors": "Jo Nesbø",
+            "link": "https://www.goodreads.com/book/show/11777020-headhunters",
+            "publicationYear": "2011",
+            "averageRating": "3.79",
+            "ratingCount": "22759",
+            "description":
+              "Roger Brown is a corporate headhunter, and he’s a master of his profession. But one career simply can’t support his luxurious lifestyle and his wife’s fledgling art gallery. At an art opening one night he meets Clas Greve, who is not only the perfect candidate for a major CEO job, but also, perhaps, the answer to his financial woes: Greve just so happens to mention that he owns a priceless Peter Paul Rubens painting that’s been lost since World War II—and Roger Brown just so happens to dabble in art theft. But when he breaks into Greve’s apartment, he finds more than just the painting. And Clas Greve may turn out to be the worst thing that’s ever happened to Roger Brown."
+          }
+        },
+        {
+          "book": {
+            "title": "Death Masks (The Dresden Files, #5)",
+            "numOfPages": "432",
+            "authors": "Jim Butcher",
+            "link": "https://www.goodreads.com/book/show/91479.Death_Masks",
+            "publicationYear": "2003",
+            "averageRating": "4.32",
+            "ratingCount": "92248",
+            "description":
+              "Harry Dresden, Chicago's only practicing professional wizard, should be happy that business is pretty good for a change. But now he's getting more than he bargained for:<br /><br />A duel with the Red Court of Vampires' champion, who must kill Harry to end the war between vampires and wizards...<br /><br />Professional hit men using Harry for target practice...<br /><br />The missing Shroud of Turin...<br /><br />A handless and headless corpse the Chicago police need identified...<br /><br />Not to mention the return of Harry's ex-girlfriend Susan, who's still struggling with her semi-vampiric nature. And who seems to have a new man in her life.<br /><br />Some days, it just doesn't pay to get out of bed. No matter how much you're charging."
+          }
+        },
+        {
+          "book": {
+            "title": "Earthcore",
+            "numOfPages": "",
+            "authors": "Scott Sigler",
+            "link": "https://www.goodreads.com/book/show/303110.Earthcore",
+            "publicationYear": "",
+            "averageRating": "4.16",
+            "ratingCount": "3484",
+            "description":
+              "Deep below a desolate Utah mountain lies the largest platinum deposit ever discovered. A billion-dollar find, it waits for any company that can drill a world's record, three-mile-deep mine shaft. EarthCore is the company with the technology, the resources and the guts to go after the mother lode. Young executive Connell Kirkland is the company's driving force, pushing himself and those around him to uncover the massive treasure. But at three miles below the surface, where the rocks are so hot they burn bare skin, something has been waiting for centuries. Waiting ...and guarding. Kirkland and EarthCore are about to find out first-hand why this treasure has never been unearthed."
+          }
+        },
+        {
+          "book": {
+            "title": "The Late Show (Renée Ballard, #1)",
+            "numOfPages": "405",
+            "authors": "Michael Connelly",
+            "link":
+              "https://www.goodreads.com/book/show/34091380-the-late-show",
+            "publicationYear": "2017",
+            "averageRating": "4.08",
+            "ratingCount": "15676",
+            "description":
+              "From #1 New York Times bestselling author Michael Connelly, a new thriller introducing a driven young detective trying to prove herself in the LAPD<br /><br />Renée Ballard works the night shift in Hollywood, beginning many investigations but finishing none as each morning she turns her cases over to day shift detectives. A once up-and-coming detective, she's been given this beat as punishment after filing a sexual harassment complaint against a supervisor.<br /><br />But one night she catches two cases she doesn't want to part with: the brutal beating of a prostitute left for dead in a parking lot and the killing of a young woman in a nightclub shooting. Ballard is determined not to give up at dawn. Against orders and her own partner's wishes, she works both cases by day while maintaining her shift by night. As the cases entwine they pull her closer to her own demons and the reason she won't give up her job no matter what the department throws at her."
+          }
+        },
+        {
+          "book": {
+            "title": "Assassin's Apprentice (Farseer Trilogy, #1)",
+            "numOfPages": "448",
+            "authors": "Robin Hobb",
+            "link":
+              "https://www.goodreads.com/book/show/77197.Assassin_s_Apprentice",
+            "publicationYear": "1996",
+            "averageRating": "4.14",
+            "ratingCount": "167449",
+            "description":
+              "<i>Alternate cover edition for this ISBN can be found <a href=\"https://www.goodreads.com/book/show/34399908-assassin-s-apprentice\" rel=\"nofollow\">here</a></i>.<br /><br />Young Fitz is the bastard son of the noble Prince Chivalry, raised in the shadow of the royal court by his father’s gruff stableman. He is treated as an outcast by all the royalty except the devious King Shrewd, who has him secretly tutored in the arts of the assassin. For in Fitz’s blood runs the magic Skill—and the darker knowledge of a child raised with the stable hounds and rejected by his family.<br /><br />As barbarous raiders ravage the coasts, Fitz is growing to manhood. Soon he will face his first dangerous, soul-shattering mission. And though some regard him as a threat to the throne, he may just be the key to the survival of the kingdom."
+          }
+        },
+        {
+          "book": {
+            "title": "Royal Assassin (Farseer Trilogy, #2)",
+            "numOfPages": "675",
+            "authors": "Robin Hobb",
+            "link":
+              "https://www.goodreads.com/book/show/25300956-royal-assassin",
+            "publicationYear": "2002",
+            "averageRating": "4.21",
+            "ratingCount": "105168",
+            "description":
+              "Fitz has survived his first hazardous mission as king’s assassin, but is left little more than a cripple. Battered and bitter, he vows to abandon his oath to King Shrewd, remaining in the distant mountains. But love and events of terrible urgency draw him back to the court at Buckkeep, and into the deadly intrigues of the royal family.<br /><br />Renewing their vicious attacks on the coast, the Red-Ship Raiders leave burned-out villages and demented victims in their wake. The kingdom is also under assault from within, as treachery threatens the throne of the ailing king. In this time of great danger, the fate of the kingdom may rest in Fitz’s hands—and his role in its salvation may require the ultimate sacrifice."
+          }
+        },
+        {
+          "book": {
+            "title": "The Last Mile (Amos Decker, #2)",
+            "numOfPages": "644",
+            "authors": "David Baldacci",
+            "link":
+              "https://www.goodreads.com/book/show/26245853-the-last-mile",
+            "publicationYear": "2016",
+            "averageRating": "4.22",
+            "ratingCount": "36887",
+            "description":
+              "<b>\n  <blockquote>In his #1 <i>New York Times </i>bestseller <i>Memory Man</i>, David Baldacci introduced the extraordinary detective Amos Decker-the man who can forget nothing. Now, Decker returns in a spectacular new thriller . . . <i>The Last Mile</i></blockquote>\n</b>Convicted murderer Melvin Mars is counting down the last hours before his execution--for the violent killing of his parents twenty years earlier--when he's granted an unexpected reprieve. Another man has confessed to the crime.<p>Amos Decker, newly hired on an FBI special task force, takes an interest in Mars's case after discovering the striking similarities to his own life: Both men were talented football players with promising careers cut short by tragedy. Both men's families were brutally murdered. And in both cases, another suspect came forward, years after the killing, to confess to the crime. A suspect who may or may not have been telling the truth.</p><p>The confession has the potential to make Melvin Mars--guilty or not--a free man. Who wants Mars out of prison? And why now?</p><p>But when a member of Decker's team disappears, it becomes clear that something much larger--and more sinister--than just one convicted criminal's life hangs in the balance. Decker will need all of his extraordinary brainpower to stop an innocent man from being executed.</p><p><b>\"Entertaining and enlightening, The Last Mile is a rich novel that has much to offer...In the best Baldacci tradition, the action is fast and furious. But <i>The Last Mile</i> is more than a good action thriller. It sheds light on racism, a father-son relationship and capital punishment. Both Mars and Decker are substantive, solid characters....Utterly absorbing.\"</b>—<i>Associated Press</i></p><p><b>\"[Amos Decker is] one of the most unique protagonists seen in thriller fiction....David Baldacci has always been a top-notch thriller writer ...[his] fertile imagination and intricate plotting abilities make each of his books a treat for thriller readers. <i>The Last Mile</i> is no exception.\"</b>—<i>BookReporter.com</i></p><p><b>\"The intricate details in Baldacci's explosive new novel engage until the final word. He's hit the pinnacle traveling the Deep South and exploring its traditions. Decker and his compatriots are characters to remember long after reading this impressive undertaking.\"</b>—<i>RT Book Reviews</i> (4 1/2 stars - Top Pick!)</p><p><b>\"A compelling mystery with emotional resonance. Just when the story line heads to what seems an obvious conclusion, Baldacci veers off course with a surprising twist. The end result is another exciting read from a thriller master.\"</b>—<i>Library Journal</i> (Starred Review)</p><p><b>\"Baldacci excels at developing interesting, three-dimensional protagonists...Baldacci fans will not be disappointed, and <i>The Last Mile</i> gives good reason to look forward to the next Amos Decker thriller.\"</b>—<i>New York Journal of Books</i></p><p><b>\"It's big, bold and almost impossible to put down...Decker is one of the most unusual detectives any novelist has dreamed up...I called this novel a master class on the bestseller because of its fast-moving narrative, the originality of its hero and its irresistible plot....Highly entertaining.\"</b>—<i>Washington Post</i> on <i>Memory Man</i></p><p><b>\"David Baldacci has written another thriller that will have readers engaged from the first page....Baldacci is a master storyteller...<i>Memory Man</i> works because Amos Decker is an amazing character. Reading how Decker journeys from hitting rock bottom to finding ultimate redemption is nothing short of rewarding.\"</b>—<i>Associated Press</i> on <i>Memory Man</i></p><p><b>\"Perennial bestseller Baldacci unveils an offbeat hero with an unusual skill set and tragic past who takes on the evil mastermind behind a devastating school shooting..[Decker] proves a quirky, original antihero with a definite method to his madness...Readers will want to see Decker back on the printed page again and again.\"</b>—<i>Kirkus Reviews</i> on <i>Memory Man</i></p>"
+          }
+        },
+        {
+          "book": {
+            "title": "The Collapsing Empire (The Interdependency #1)",
+            "numOfPages": "336",
+            "authors": "John Scalzi",
+            "link":
+              "https://www.goodreads.com/book/show/30078567-the-collapsing-empire",
+            "publicationYear": "2017",
+            "averageRating": "4.11",
+            "ratingCount": "10967",
+            "description":
+              "The first novel of a new space-opera sequence set in an all-new universe by the Hugo Award-winning, New York Times-bestselling author of Redshirts and Old Man's War.<br /><br />Our universe is ruled by physics and faster than light travel is not possible -- until the discovery of The Flow, an extra-dimensional field we can access at certain points in space-time that transport us to other worlds, around other stars. <br /><br />Humanity flows away from Earth, into space, and in time forgets our home world and creates a new empire, the Interdependency, whose ethos requires that no one human outpost can survive without the others. It’s a hedge against interstellar war -- and a system of control for the rulers of the empire.<br /><br />The Flow is eternal -- but it is not static. Just as a river changes course, The Flow changes as well, cutting off worlds from the rest of humanity. When it’s discovered that The Flow is moving, possibly cutting off all human worlds from faster than light travel forever, three individuals -- a scientist, a starship captain and the Empress of the Interdependency -- are in a race against time to discover what, if anything, can be salvaged from an interstellar empire on the brink of collapse."
+          }
+        },
+        {
+          "book": {
+            "title": "Back Blast (Gray Man, #5)",
+            "numOfPages": "512",
+            "authors": "Mark Greaney",
+            "link": "https://www.goodreads.com/book/show/24611449-back-blast",
+            "publicationYear": "",
+            "averageRating": "4.46",
+            "ratingCount": "3911",
+            "description":
+              "<blockquote>\n  <b>From the #1 <i>New York Times </i>bestselling co-author of Tom Clancy’s Jack Ryan novels, comes an all-new explosive thriller featuring the lethal assassin known as the Gray Man…</b>\n</blockquote>Court Gentry was the CIA’s best agent. Until the day the Agency turned against him and put out a kill on sight order. That’s when the enigmatic international assassin called the Gray Man was born—and Court has been working for himself ever since<p>Now, Court is back in Washington looking for answers. He’s determined to find out what happened all those years ago that made the Agency turn against him. On his list to interrogate are his former partners and the men who sent him on his last mission. What he doesn’t realize is that the questions that arose from that mission are still reverberating in the U.S. intelligence community, and he’s stumbled onto a secret that powerful people want kept under wraps. And now, they have Court in their crosshairs.</p><p>Court Gentry is used to having people on his trail, but this time, it’s on U.S. soil—the last place he wants to be. Now, he’ll have to find the answers to his fate while evading capture…and avoiding death.</p><p><b>“Take fictional spy Jason Bourne, pump him up with Red Bull and meth, shake vigorously—and you’ve got the recipe for Court Gentry.</b>”—<i>The Memphis Commercial Appeal</i></p><p><b>“The story is so propulsive, the murders so explosive, that flipping the pages feels like playing the ultimate video game.”</b>—<i>The New York Times</i></p><p><b>“Hard, fast, and unflinching.”</b>—Lee Child, #1 <i>New York Times</i> bestselling author of <i>A Wanted Man</i></p>"
+          }
+        },
+        {
+          "book": {
+            "title": "The Gray Man (Gray Man, #1)",
+            "numOfPages": "456",
+            "authors": "Mark Greaney",
+            "link": "https://www.goodreads.com/book/show/6547865-the-gray-man",
+            "publicationYear": "2009",
+            "averageRating": "4.08",
+            "ratingCount": "9159",
+            "description":
+              "To those who lurk in the shadows, he’s known as the Gray Man. He is a legend in the covert realm, moving silently from job to job, accomplishing the impossible and then fading away. And he always hits his target. Always.<p>But there are forces more lethal than Gentry in the world. Forces like money. And power. And there are men who hold these as the only currency worth fighting for. And in their eyes, Gentry has just outlived his usefulness.</p><p>But Court Gentry is going to prove that, for him, there’s no gray area between killing for a living and killing to stay alive…</p>"
+          }
+        },
+        {
+          "book": {
+            "title": "Big Little Lies",
+            "numOfPages": "460",
+            "authors": "Liane Moriarty",
+            "link":
+              "https://www.goodreads.com/book/show/19486412-big-little-lies",
+            "publicationYear": "2014",
+            "averageRating": "4.21",
+            "ratingCount": "396688",
+            "description":
+              "<i>Big Little Lies</i> follows three women, each at a crossroads:<br /><br />Madeline is a force to be reckoned with. She’s funny and biting, passionate, she remembers everything and forgives no one. Her ex-husband and his yogi new wife have moved into her beloved beachside community, and their daughter is in the same kindergarten class as Madeline’s youngest (<i>how </i>is this possible?). And to top it all off, Madeline’s teenage daughter seems to be choosing Madeline’s ex-husband over her. (How. Is. This. Possible?).<br /><br />Celeste is the kind of beautiful woman who makes the world stop and stare. While she may seem a bit flustered at times, who wouldn’t be, with those rambunctious twin boys? Now that the boys are starting school, Celeste and her husband look set to become the king and queen of the school parent body. But royalty often comes at a price, and Celeste is grappling with how much more she is willing to pay.<br /><br />New to town, single mom Jane is so young that another mother mistakes her for the nanny. Jane is sad beyond her years and harbors secret doubts about her son. But why? While Madeline and Celeste soon take Jane under their wing, none of them realizes how the arrival of Jane and her inscrutable little boy will affect them all.<br /><br /><i>Big Little Lies</i> is a brilliant take on ex-husbands and second wives, mothers and daughters, schoolyard scandal, and the dangerous little lies we tell ourselves just to survive."
+          }
+        },
+        {
+          "book": {
+            "title": "Snapshot",
+            "numOfPages": "123",
+            "authors": "Brandon Sanderson",
+            "link": "https://www.goodreads.com/book/show/31176804-snapshot",
+            "publicationYear": "2017",
+            "averageRating": "4.04",
+            "ratingCount": "5806",
+            "description":
+              "Snapshot is a Science Fiction detective story following Anthony Davis, a cop assigned to Snapshot Duty. In this vivid world that author Brandon Sanderson has built, society can create a snapshot of a specific day in time. The experiences people have, the paths they follow—all of them are real again for a one day in the snapshot. All for the purposes of investigation by the court. <br /><br />Davis’s job as a cop on Snapshot Duty is straight forward. Sometimes he is tasked with finding where a criminal dumped a weapon. Sometimes he is tasked with documenting domestic disputes. Simple. Mundane. One day, in between two snapshot assignments, Davis decides to investigate the memory of a call that was mysteriously never logged at the precinct, and he makes a horrifying discovery.<br /><br />As in all many stories, Snapshot follows a wonderfully flawed character as he attempts to solve a horrific crime. Sanderson proves that no matter the genre, he is one of the most skilled storytellers in the business."
+          }
+        },
+        {
+          "book": {
+            "title": "Traitor's Blade (Greatcoats, #1)",
+            "numOfPages": "370",
+            "authors": "Sebastien de Castell",
+            "link":
+              "https://www.goodreads.com/book/show/18947303-traitor-s-blade",
+            "publicationYear": "2014",
+            "averageRating": "4.08",
+            "ratingCount": "9671",
+            "description":
+              "Falcio is the first Cantor of the Greatcoats. Trained in the fighting arts and the laws of Tristia, the Greatcoats are travelling Magisters upholding King’s Law. They are heroes. Or at least they were, until they stood aside while the Dukes took the kingdom, and impaled their King’s head on a spike.<br /><br />Now Tristia is on the verge of collapse and the barbarians are sniffing at the borders. The Dukes bring chaos to the land, while the Greatcoats are scattered far and wide, reviled as traitors, their legendary coats in tatters.<br /><br />All they have left are the promises they made to King Paelis, to carry out one final mission. But if they have any hope of fulfilling the King’s dream, the divided Greatcoats must reunite, or they will also have to stand aside as they watch their world burn…"
+          }
+        },
+        {
+          "book": {
+            "title":
+              "The Bear and the Nightingale (The Winternight Trilogy #1)",
+            "numOfPages": "322",
+            "authors": "Katherine  Arden",
+            "link":
+              "https://www.goodreads.com/book/show/25489134-the-bear-and-the-nightingale",
+            "publicationYear": "2017",
+            "averageRating": "4.13",
+            "ratingCount": "16991",
+            "description":
+              "At the edge of the Russian wilderness, winter lasts most of the year and the snowdrifts grow taller than houses. But Vasilisa doesn’t mind—she spends the winter nights huddled around the embers of a fire with her beloved siblings, listening to her nurse’s fairy tales. Above all, she loves the chilling story of Frost, the blue-eyed winter demon, who appears in the frigid night to claim unwary souls. Wise Russians fear him, her nurse says, and honor the spirits of house and yard and forest that protect their homes from evil.<br /><br />After Vasilisa’s mother dies, her father goes to Moscow and brings home a new wife. Fiercely devout, city-bred, Vasilisa’s new stepmother forbids her family from honoring the household spirits. The family acquiesces, but Vasilisa is frightened, sensing that more hinges upon their rituals than anyone knows.<br /><br />And indeed, crops begin to fail, evil creatures of the forest creep nearer, and misfortune stalks the village. All the while, Vasilisa’s stepmother grows ever harsher in her determination to groom her rebellious stepdaughter for either marriage or confinement in a convent.<br /><br />As danger circles, Vasilisa must defy even the people she loves and call on dangerous gifts she has long concealed—this, in order to protect her family from a threat that seems to have stepped from her nurse’s most frightening tales."
+          }
+        },
+        {
+          "book": {
+            "title": "The Emperor's Soul",
+            "numOfPages": "175",
+            "authors": "Brandon Sanderson",
+            "link":
+              "https://www.goodreads.com/book/show/13578175-the-emperor-s-soul",
+            "publicationYear": "2012",
+            "averageRating": "4.33",
+            "ratingCount": "40613",
+            "description":
+              "Also available in <a href=\"https://www.goodreads.com/book/show/28595941.Arcanum_Unbounded__The_Cosmere_Collection\" title=\"Arcanum Unbounded: The Cosmere Collection\" rel=\"nofollow\">Arcanum Unbounded: The Cosmere Collection</a>.<br /><br />A heretic thief is the empire’s only hope in this fascinating tale that inhabits the same world as the popular novel, <i>Elantris</i>.<br /><br />Shai is a Forger, a foreigner who can flawlessly copy and re-create any item by rewriting its history with skillful magic. Condemned to death after trying to steal the emperor’s scepter, she is given one opportunity to save herself. Though her skill as a Forger is considered an abomination by her captors, Shai will attempt to create a new soul for the emperor, who is almost dead. <br /><br />Probing deeply into his life, she discovers Emperor Ashravan’s truest nature—and the opportunity to exploit it. Her only possible ally is one who is truly loyal to the emperor, but councilor Gaotona must overcome his prejudices to understand that Shai’s forgery is as much artistry as it is deception. <br /><br />Brimming with magic and political intrigue, this deftly woven fantasy delves into the essence of a living spirit."
+          }
+        },
+        {
+          "book": {
+            "title": "The Library at Mount Char",
+            "numOfPages": "388",
+            "authors": "Scott  Hawkins",
+            "link":
+              "https://www.goodreads.com/book/show/26892110-the-library-at-mount-char",
+            "publicationYear": "2016",
+            "averageRating": "4.07",
+            "ratingCount": "16908",
+            "description":
+              "<i>A missing God.</i><br /><i>A library with the secrets to the universe. </i><br /><i>A woman too busy to notice her heart slipping away.</i><br /><i> </i><br /> Carolyn's not so different from the other people around her. She likes guacamole and cigarettes and steak. She knows how to use a phone. Clothes are a bit tricky, but everyone says nice things about her outfit with the Christmas sweater over the gold bicycle shorts.  <br /><br />After all, she was a normal American herself once.   <br /><br />That was a long time ago, of course. Before her parents died. Before she and the others were taken in by the man they called Father. <br /><br />In the years since then, Carolyn hasn't had a chance to get out much. Instead, she and her adopted siblings have been raised according to Father's ancient customs. They've studied the books in his Library and learned some of the secrets of his power. And sometimes, they've wondered if their cruel tutor might secretly be God.  <br /><br />Now, Father is missing—perhaps even dead—and the Library that holds his secrets stands unguarded. And with it, control over all of creation. <br /><br />As Carolyn gathers the tools she needs for the battle to come, fierce competitors for this prize align against her, all of them with powers that far exceed her own. <br /><br />But Carolyn has accounted for this. <br /><br />And Carolyn has a plan. <br /><br />The only trouble is that in the war to make a new God, she's forgotten to protect the things that make her human.<br /><br />Populated by an unforgettable cast of characters and propelled by a plot that will shock you again and again, <i>The Library at Mount Char</i> is at once horrifying and hilarious, mind-blowingly alien and heartbreakingly human, sweepingly visionary and nail-bitingly thrilling—and signals the arrival of a major new voice in fantasy.<br /><br /><br /><i>From the Hardcover edition.</i>"
+          }
+        },
+        {
+          "book": {
+            "title": "All the Birds in the Sky",
+            "numOfPages": "320",
+            "authors": "Charlie Jane Anders",
+            "link":
+              "https://www.goodreads.com/book/show/25372801-all-the-birds-in-the-sky",
+            "publicationYear": "2016",
+            "averageRating": "3.58",
+            "ratingCount": "20076",
+            "description":
+              "<b>A novel about the end of the world--and the beginning of our future</b><br /><br />Childhood friends Patricia Delfine and Laurence Armstead didn't expect to see each other again, after parting ways under mysterious circumstances during high school. After all, the development of magical powers and the invention of a two-second time machine could hardly fail to alarm one's peers and families.<br /><br />But now they're both adults, living in the hipster mecca of San Francisco, and the planet is falling apart around them. Laurence is an engineering genius who's working with a group that aims to avert catastrophic breakdown through technological intervention into the changing global climate. Patricia is a graduate of Eltisley Maze, the hidden academy for the world's magically gifted, and works with a small band of other magicians to secretly repair the world's ever-growing ailments. Little do they realize that something bigger than either of them, something begun years ago in their youth, is determined to bring them together--to either save the world, or plunge it into a new dark ages.<br /><br />A deeply magical, darkly funny examination of life, love, and the apocalypse."
+          }
+        },
+        {
+          "book": {
+            "title": "Dark Matter",
+            "numOfPages": "342",
+            "authors": "Blake Crouch",
+            "link": "https://www.goodreads.com/book/show/27833670-dark-matter",
+            "publicationYear": "2016",
+            "averageRating": "4.10",
+            "ratingCount": "92000",
+            "description":
+              "“Are you happy with your life?” <br /><br />Those are the last words Jason Dessen hears before the masked abductor knocks him unconscious. <br /><br />Before he awakens to find himself strapped to a gurney, surrounded by strangers in hazmat suits. <br /><br />Before a man Jason’s never met smiles down at him and says, “Welcome back, my friend.” <br /><br />In this world he’s woken up to, Jason’s life is not the one he knows. His wife is not his wife. His son was never born. And Jason is not an ordinary college physics professor, but a celebrated genius who has achieved something remarkable. Something impossible.<br /><br />Is it this world or the other that’s the dream? And even if the home he remembers is real, how can Jason possibly make it back to the family he loves? The answers lie in a journey more wondrous and horrifying than anything he could’ve imagined—one that will force him to confront the darkest parts of himself even as he battles a terrifying, seemingly unbeatable foe.<br /><br />From the author of the bestselling Wayward Pines trilogy, Dark Matter is a brilliantly plotted tale that is at once sweeping and intimate, mind-bendingly strange and profoundly human—a relentlessly surprising science-fiction thriller about choices, paths not taken, and how far we’ll go to claim the lives we dream of."
+          }
+        },
+        {
+          "book": {
+            "title": "Night School (Jack Reacher #21)",
+            "numOfPages": "14",
+            "authors": "Lee Child",
+            "link": "https://www.goodreads.com/book/show/28077464-night-school",
+            "publicationYear": "2016",
+            "averageRating": "3.96",
+            "ratingCount": "30237",
+            "description":
+              "It’s 1996, and Reacher is still in the army. In the morning they give him a medal, and in the afternoon they send him back to school. That night he’s off the grid. Out of sight, out of mind.<br /><br />Two other men are in the classroom—an FBI agent and a CIA analyst. Each is a first-rate operator, each is fresh off a big win, and each is wondering what the hell they are doing there.<br /><br />Then they find out: A Jihadist sleeper cell in Hamburg, Germany, has received an unexpected visitor—a Saudi courier, seeking safe haven while waiting to rendezvous with persons unknown. A CIA asset, undercover inside the cell, has overheard the courier whisper a chilling message: “The American wants a hundred million dollars.”<br /><br />For what? And who from? Reacher and his two new friends are told to find the American. Reacher recruits the best soldier he has ever worked with: Sergeant Frances Neagley. Their mission heats up in more ways than one, while always keeping their eyes on the prize: If they don’t get their man, the world will suffer an epic act of terrorism.<br /><br />From Langley to Hamburg, Jalalabad to Kiev, <i>Night School</i> moves like a bullet through a treacherous landscape of double crosses, faked identities, and new and terrible enemies, as Reacher maneuvers inside the game and outside the law.<br /><br /><i>Listening Length: 13 hours and 7 minutes</i>"
+          }
+        },
+        {
+          "book": {
+            "title": "A Torch Against the Night (An Ember in the Ashes, #2)",
+            "numOfPages": "452",
+            "authors": "Sabaa Tahir",
+            "link":
+              "https://www.goodreads.com/book/show/25558608-a-torch-against-the-night",
+            "publicationYear": "2016",
+            "averageRating": "4.34",
+            "ratingCount": "37797",
+            "description":
+              "Elias and Laia are running for their lives. After the events of the Fourth Trial, Martial soldiers hunt the two fugitives as they flee the city of Serra and undertake a perilous journey through the heart of the Empire.<br /><br />Laia is determined to break into Kauf—the Empire’s most secure and dangerous prison—to save her brother, who is the key to the Scholars’ survival. And Elias is determined to help Laia succeed, even if it means giving up his last chance at freedom.<br /><br />But dark forces, human and otherworldly, work against Laia and Elias. The pair must fight every step of the way to outsmart their enemies: the bloodthirsty Emperor Marcus, the merciless Commandant, the sadistic Warden of Kauf, and, most heartbreaking of all, Helene—Elias’s former friend and the Empire’s newest Blood Shrike.<br /><br />Bound to Marcus’s will, Helene faces a torturous mission of her own—one that might destroy her: find the traitor Elias Veturius and the Scholar slave who helped him escape…and kill them both."
+          }
+        },
+        {
+          "book": {
+            "title": "The Nix",
+            "numOfPages": "628",
+            "authors": "Nathan  Hill",
+            "link": "https://www.goodreads.com/book/show/28251002-the-nix",
+            "publicationYear": "2016",
+            "averageRating": "4.12",
+            "ratingCount": "29171",
+            "description":
+              "A hilarious and deeply touching debut novel about a son, the mother who left him as a child, and how his search to uncover the secrets of her life leads him to reclaim his own.<br /><br />Meet Samuel Andresen-Anderson: stalled writer, bored teacher at a local college, obsessive player of an online video game. He hasn't seen his mother, Faye, since she walked out when he was a child. But then one day there she is, all over the news, throwing rocks at a presidential candidate. The media paints Faye as a militant radical with a sordid past, but as far as Samuel knows, his mother never left her small Iowa town. Which version of his mother is the true one? Determined to solve the puzzle - and finally have something to deliver to his publisher - Samuel decides to capitalize on his mother's new fame by writing a tell-all biography, a book that will savage her intimately, publicly. But first, he has to locate her; and second, to talk to her without bursting into tears. <br /><br />As Samuel begins to excavate her history, the story moves from the rural Midwest of the 1960s to New York City during the Great Recession and Occupy Wall Street to the infamous riots at the 1968 Chicago Democratic National Convention, and finally to Norway, home of the mysterious Nix that his mother told him about as a child. And in these places, Samuel will unexpectedly find that he has to rethink everything he ever knew about his mother - a woman with an epic story of her own, a story she kept hidden from the world."
+          }
+        },
+        {
+          "book": {
+            "title": "A Gentleman in Moscow",
+            "numOfPages": "462",
+            "authors": "Amor Towles",
+            "link":
+              "https://www.goodreads.com/book/show/29430012-a-gentleman-in-moscow",
+            "publicationYear": "2016",
+            "averageRating": "4.37",
+            "ratingCount": "57299",
+            "description":
+              "<b>From the <i>New York Times</i> bestselling author of <i><a href=\"https://www.goodreads.com/book/show/10054335.Rules_of_Civility\" title=\"Rules of Civility\" rel=\"nofollow\">Rules of Civility</a></i>—a transporting novel about a man who is ordered to spend the rest of his life inside a luxury hotel </b><br />  <br /> With his breakout debut novel, <i>\n  <a href=\"https://www.goodreads.com/book/show/10054335.Rules_of_Civility\" title=\"Rules of Civility\" rel=\"nofollow\">Rules of Civility</a>\n</i>, Amor Towles established himself as a master of absorbing, sophisticated fiction, bringing late 1930s Manhattan to life with splendid atmosphere and a flawless command of style. <br /><i><br /> A Gentleman in Moscow</i> immerses us in another elegantly drawn era with the story of Count Alexander Rostov. When, in 1922, he is deemed an unrepentant aristocrat by a Bolshevik tribunal, the count is sentenced to house arrest in the Metropol, a grand hotel across the street from the Kremlin. Rostov, an indomitable man of erudition and wit, has never worked a day in his life, and must now live in an attic room while some of the most tumultuous decades in Russian history are unfolding outside the hotel’s doors. Unexpectedly, his reduced circumstances provide him a doorway into a much larger world of emotional discovery.<br /><br /> Brimming with humor, a glittering cast of characters, and one beautifully rendered scene after another, this singular novel casts a spell as it relates the count’s endeavor to gain a deeper understanding of what it means to be a man of purpose."
+          }
+        },
+        {
+          "book": {
+            "title": "Home (Myron Bolitar #11)",
+            "numOfPages": "387",
+            "authors": "Harlan Coben",
+            "link": "https://www.goodreads.com/book/show/29430007-home",
+            "publicationYear": "2016",
+            "averageRating": "4.20",
+            "ratingCount": "24583",
+            "description":
+              "<b>Ten years after the high-profile kidnapping of two young boys, only one returns home.</b><br /><br />A decade ago, kidnappers grabbed two boys from wealthy families and demanded ransom, then went silent. No trace of the boys ever surfaced. For ten years their families have been left with nothing but painful memories and a quiet desperation for the day that has finally, miraculously arrived: Myron Bolitar and his friend Win believe they have located one of the boys, now a teenager. Where has he been for ten years, and what does he know about the day, more than half a life ago, when he was taken? And most critically: What can he tell Myron and Win about the fate of his missing friend? <br /><br />Harlan Coben delivers a thriller about friendship, family, and the meaning of home."
+          }
+        },
+        {
+          "book": {
+            "title": "An Ember in the Ashes (An Ember in the Ashes, #1)",
+            "numOfPages": "446",
+            "authors": "Sabaa Tahir",
+            "link":
+              "https://www.goodreads.com/book/show/27774758-an-ember-in-the-ashes",
+            "publicationYear": "2016",
+            "averageRating": "4.32",
+            "ratingCount": "98970",
+            "description":
+              "<i>Alternative cover edition for ISBN-13: <a href=\"https://www.goodreads.com/book/show/36040400-an-ember-in-the-ashes\" rel=\"nofollow\">9781595148049</a>.</i><br /><br />Laia is a slave. Elias is a soldier. Neither is free.<br />  <br /> Under the Martial Empire, defiance is met with death. Those who do not vow their blood and bodies to the Emperor risk the execution of their loved ones and the destruction of all they hold dear.<br />  <br /> It is in this brutal world, inspired by ancient Rome, that Laia lives with her grandparents and older brother. The family ekes out an existence in the Empire’s impoverished backstreets. They do not challenge the Empire. They’ve seen what happens to those who do.<br />  <br /> But when Laia’s brother is arrested for treason, Laia is forced to make a decision. In exchange for help from rebels who promise to rescue her brother, she will risk her life to spy for them from within the Empire’s greatest military academy.<br />  <br /> There, Laia meets Elias, the school’s finest soldier—and secretly, its most unwilling. Elias wants only to be free of the tyranny he’s being trained to enforce. He and Laia will soon realize that their destinies are intertwined—and that their choices will change the fate of the Empire itself.<br /><br /><i>From the Hardcover edition.</i>"
+          }
+        },
+        {
+          "book": {
+            "title": "The Black Widow (Gabriel Allon, #16)",
+            "numOfPages": "528",
+            "authors": "Daniel Silva",
+            "link":
+              "https://www.goodreads.com/book/show/27213121-the-black-widow",
+            "publicationYear": "2016",
+            "averageRating": "4.33",
+            "ratingCount": "18098",
+            "description":
+              "A network of terror.<br />A web of deceit.<br />A deadly game of vengeance.<br /><br />Legendary spy and art restorer Gabriel Allon is poised to become the chief of Israel’s secret intelligence service. But on the eve of his promotion, events conspire to lure him into the field for one final operation. ISIS has detonated a massive bomb in the Marais district of Paris, and a desperate French government wants Gabriel to eliminate the man responsible before he can strike again.<br /><br />They call him Saladin …<br /><br />He is a terrorist mastermind whose ambition is as grandiose as his nom de guerre, a man so elusive that even his nationality is not known. Shielded by sophisticated encryption software, his network communicates in total secrecy, leaving the West blind to his planning—and leaving Gabriel no choice but to insert an agent into the most dangerous terrorist group the world has ever known. Natalie Mizrahi is an extraordinary young doctor as brave as she is beautiful. At Gabriel’s behest, she will pose as an ISIS recruit in waiting, a ticking time bomb, a black widow out for blood.<br /><br />Her perilous mission will take her from the restive suburbs of Paris to the island of Santorini and the brutal world of the Islamic State’s new caliphate, and eventually to Washington, D.C., where the ruthless Saladin is plotting an apocalyptic night of terror that will alter the course of history. The Black Widow is a riveting thriller of shocking prescience. But it is also a thoughtful journey into the new heart of darkness that will haunt readers long after they have turned the final page."
+          }
+        },
+        {
+          "book": {
+            "title": "Homegoing",
+            "numOfPages": "305",
+            "authors": "Yaa Gyasi",
+            "link": "https://www.goodreads.com/book/show/27071490-homegoing",
+            "publicationYear": "2016",
+            "averageRating": "4.41",
+            "ratingCount": "57062",
+            "description":
+              "A novel of breathtaking sweep and emotional power that traces three hundred years in Ghana and along the way also becomes a truly great American novel. Extraordinary for its exquisite language, its implacable sorrow, its soaring beauty, and for its monumental portrait of the forces that shape families and nations, Homegoing heralds the arrival of a major new voice in contemporary fiction.<br /><br />Two half-sisters, Effia and Esi, are born into different villages in eighteenth-century Ghana. Effia is married off to an Englishman and lives in comfort in the palatial rooms of Cape Coast Castle. Unbeknownst to Effia, her sister, Esi, is imprisoned beneath her in the castle's dungeons, sold with thousands of others into the Gold Coast's booming slave trade, and shipped off to America, where her children and grandchildren will be raised in slavery. One thread of Homegoing follows Effia's descendants through centuries of warfare in Ghana, as the Fante and Asante nations wrestle with the slave trade and British colonization. The other thread follows Esi and her children into America. From the plantations of the South to the Civil War and the Great Migration, from the coal mines of Pratt City, Alabama, to the jazz clubs and dope houses of twentieth-century Harlem, right up through the present day, Homegoing makes history visceral, and captures, with singular and stunning immediacy, how the memory of captivity came to be inscribed in the soul of a nation. <br /><br />Generation after generation, Yaa Gyasi's magisterial first novel sets the fate of the individual against the obliterating movements of time, delivering unforgettable characters whose lives were shaped by historical forces beyond their control. Homegoing is a tremendous reading experience, not to be missed, by an astonishingly gifted young writer."
+          }
+        },
+        {
+          "book": {
+            "title": "City of Thieves",
+            "numOfPages": "258",
+            "authors": "David Benioff",
+            "link":
+              "https://www.goodreads.com/book/show/1971304.City_of_Thieves",
+            "publicationYear": "",
+            "averageRating": "4.28",
+            "ratingCount": "79660",
+            "description":
+              "<b>From the critically acclaimed author of The 25th Hour, a captivating novel about war, courage, survival — and a remarkable friendship that ripples across a lifetime.</b><br /><br />During the Nazis’ brutal siege of Leningrad, Lev Beniov is arrested for looting and thrown into the same cell as a handsome deserter named Kolya. Instead of being executed, Lev and Kolya are given a shot at saving their own lives by complying with an outrageous directive: secure a dozen eggs for a powerful Soviet colonel to use in his daughter’s wedding cake. In a city cut off from all supplies and suffering unbelievable deprivation, Lev and Kolya embark on a hunt through the dire lawlessness of Leningrad and behind enemy lines to find the impossible.<br /><br />By turns insightful and funny, thrilling and terrifying, <i>City of Thieves</i> is a gripping, cinematic World War II adventure and an intimate coming-of-age story with an utterly contemporary feel for how boys become men."
+          }
+        },
+        {
+          "book": {
+            "title": "Ready Player One",
+            "numOfPages": "374",
+            "authors": "Ernest Cline",
+            "link":
+              "https://www.goodreads.com/book/show/9969571-ready-player-one",
+            "publicationYear": "2011",
+            "averageRating": "4.31",
+            "ratingCount": "447904",
+            "description":
+              "In the year 2044, reality is an ugly place. The only time teenage Wade Watts really feels alive is when he's jacked into the virtual utopia known as the  OASIS. Wade's devoted his life to studying the puzzles hidden within this world's digital confines, puzzles that are based on their creator's obsession with the pop culture of decades past and that promise massive power and fortune to whoever can unlock them. When Wade stumbles upon the first clue, he finds himself beset by players willing to kill to take this ultimate prize. The race is on, and if Wade's going to survive, he'll have to win—and confront the real world he's always been so desperate to escape."
+          }
+        },
+        {
+          "book": {
+            "title": "And Then There Were None",
+            "numOfPages": "264",
+            "authors": "Agatha Christie",
+            "link":
+              "https://www.goodreads.com/book/show/16299.And_Then_There_Were_None",
+            "publicationYear": "",
+            "averageRating": "4.23",
+            "ratingCount": "473978",
+            "description":
+              "First, there were ten - a curious assortment of strangers summoned as weekend guests to a private island off the coast of Devon. Their host, an eccentric millionaire unknown to all of them, is nowhere to be found. All that the guests have in common is a wicked past they're unwilling to reveal - and a secret that will seal their fate. For each has been marked for murder. One by one they fall prey. Before the weekend is out, there will be none. And only the dead are above suspicion."
+          }
+        },
+        {
+          "book": {
+            "title":
+              "Red Notice: A True Story of High Finance, Murder, and One Man’s Fight for Justice",
+            "numOfPages": "380",
+            "authors": "Bill Browder",
+            "link": "https://www.goodreads.com/book/show/22609522-red-notice",
+            "publicationYear": "2015",
+            "averageRating": "4.37",
+            "ratingCount": "14942",
+            "description":
+              "A real-life political thriller about an American financier in the Wild East of Russia, the murder of his principled young tax attorney, and his dangerous mission to expose the Kremlin's corruption.<br /><br />Bill Browder's journey started on the South Side of Chicago and moved through Stanford Business School to the dog-eat-dog world of hedge fund investing in the 1990s. It continued in Moscow, where Browder made his fortune heading the largest investment fund in Russia after the Soviet Union's collapse. But when he exposed the corrupt oligarchs who were robbing the companies in which he was investing, Vladimir Putin turned on him and, in 2005, had him expelled from Russia. <br /><br />In 2007, a group of law enforcement officers raided Browder's offices in Moscow and stole $230 million of taxes that his fund's companies had paid to the Russian government. Browder's attorney Sergei Magnitsky investigated the incident and uncovered a sprawling criminal enterprise. A month after Sergei testified against the officials involved, he was arrested and thrown into pre-trial detention, where he was tortured for a year. On November 16, 2009, he was led to an isolation chamber, handcuffed to a bedrail, and beaten to death by eight guards in full riot gear. <br /><br />Browder glimpsed the heart of darkness, and it transformed his life: he embarked on an unrelenting quest for justice in Sergei's name, exposing the towering cover-up that leads right up to Putin. A financial caper, a crime thriller, and a political crusade, <i>Red Notice</i> is the story of one man taking on overpowering odds to change the world."
+          }
+        },
+        {
+          "book": {
+            "title": "Black Flags: The Rise of ISIS",
+            "numOfPages": "368",
+            "authors": "Joby Warrick",
+            "link": "https://www.goodreads.com/book/show/25241317-black-flags",
+            "publicationYear": "2015",
+            "averageRating": "4.35",
+            "ratingCount": "6773",
+            "description":
+              "<b>Pulitzer Prize-winning reporter Joby Warrick reveals how the strain of militant Islam now raising its banner across Iraq and Syria spread from a remote Jordanian prison with the unwitting aid of American military intervention.</b><br /><br />     When he succeeded his father in 1999, King Abdullah of Jordan released a batch of political prisoners in the hopes of smoothing his transition to power. Little did he know that among those released was Abu Musab al-Zarqawi, a man who would go on to become a terrorist mastermind too dangerous even for al-Qaeda and give rise to an Islamist movement bent on dominating the Middle East.<br />     Zarqawi began by directing hotel bombings and assassinations in Jordan from a base in northern Iraq, but it was the American invasion of that country in 2003 that catapulted him to the head of a vast insurgency. By identifying him as the link between Saddam and bin Laden, the CIA inadvertently created a monster. Like-minded radicals saw him as a hero resisting the infidel occupiers and rallied to his cause. Their wave of brutal beheadings and suicide bombings continued for years until Jordanian intelligence provided the Americans with the crucial intelligence needed to eliminate Zarqawi in a 2006 airstrike.<br />     But his movement endured, first called al-Qaeda in Iraq, then renamed Islamic State of Iraq and Syria, or ISIS, seeking refuge in unstable, ungoverned pockets on the Iraq-Syria border. And as the Syrian civil war broke out in 2011, ISIS seized its chance to pursue Zarqawi's dream of a sweeping, ultra-conservative Islamic caliphate. <br />     Drawing on unique access to CIA and Jordanian sources, Joby Warrick weaves together heart-pounding, moment-by-moment operational details with overarching historical perspectives to reveal the long trajectory of today's most dangerous Islamic extremist threat.<br /><br /><br /><i>From the Hardcover edition.</i>"
+          }
+        },
+        {
+          "book": {
+            "title": "Memory Man (Amos Decker, #1)",
+            "numOfPages": "416",
+            "authors": "David Baldacci",
+            "link": "https://www.goodreads.com/book/show/23153154-memory-man",
+            "publicationYear": "2015",
+            "averageRating": "4.05",
+            "ratingCount": "58923",
+            "description":
+              "Amos Decker's life changed forever--twice.<br /><br />The first time was on the gridiron. A big, towering athlete, he was the only person from his hometown of Burlington ever to go pro. But his career ended before it had a chance to begin. On his very first play, a violent helmet-to-helmet collision knocked him off the field for good, and left him with an improbable side effect--he can never forget anything.<br /><br />The second time was at home nearly two decades later. Now a police detective, Decker returned from a stakeout one evening and entered a nightmare--his wife, young daughter, and brother-in-law had been murdered.<br /><br />His family destroyed, their killer's identity as mysterious as the motive behind the crime, and unable to forget a single detail from that horrible night, Decker finds his world collapsing around him. He leaves the police force, loses his home, and winds up on the street, taking piecemeal jobs as a private investigator when he can.<br /><br />But over a year later, a man turns himself in to the police and confesses to the murders. At the same time a horrific event nearly brings Burlington to its knees, and Decker is called back in to help with this investigation. Decker also seizes his chance to learn what really happened to his family that night. To uncover the stunning truth, he must use his remarkable gifts and confront the burdens that go along with them. He must endure the memories he would much rather forget. And he may have to make the ultimate sacrifice.<br /><br /><i>Memory Man</i> will stay with you long after the turn of the final page."
+          }
+        },
+        {
+          "book": {
+            "title": "Elon Musk: Inventing the Future",
+            "numOfPages": "392",
+            "authors": "Ashlee Vance",
+            "link": "https://www.goodreads.com/book/show/22543496-elon-musk",
+            "publicationYear": "2015",
+            "averageRating": "4.25",
+            "ratingCount": "83627",
+            "description":
+              "In the spirit of Steve Jobs and Moneyball, Elon Musk is both an illuminating and authorized look at the extraordinary life of one of Silicon Valley’s most exciting, unpredictable, and ambitious entrepreneurs, Elon Musk—a real-life Tony Stark—and a fascinating exploration of the renewal of American invention and its new “makers”<br /><br />Elon Musk spotlights the technology and vision of Elon Musk, the renowned entrepreneur and innovator behind SpaceX, Tesla, and SolarCity, who sold one of his internet companies, PayPal, for $1.5 billion. Ashlee Vance captures the full spectacle and arc of the genius’s life and work, from his tumultuous upbringing in South Africa and flight to the United States to his dramatic technical innovations and entrepreneurial pursuits.<br /><br />Vance uses Musk’s story to explore one of the pressing questions of our age: can the nation of inventors and creators who led the modern world for a century still compete in an age of fierce global competition? He argues that Musk—one of the most unusual and striking figures in American business history—is a contemporary, visionary amalgam of legendary inventors and industrialists including Thomas Edison, Henry Ford, Howard Hughes, and Steve Jobs. More than any other entrepreneur today, Musk has dedicated his energies and his own vast fortune to inventing a future that is as rich and far-reaching as the visionaries of the golden age of science-fiction fantasy.<br /><br />Thorough and insightful, Elon Musk brings to life a technology industry that is rapidly and dramatically changing by examining the life of one of its most powerful and influential titans."
+          }
+        },
+        {
+          "book": {
+            "title": "Norwegian Wood",
+            "numOfPages": "296",
+            "authors": "Haruki Murakami",
+            "link": "https://www.goodreads.com/book/show/11297.Norwegian_Wood",
+            "publicationYear": "2000",
+            "averageRating": "4.02",
+            "ratingCount": "223443",
+            "description":
+              "Toru, a quiet and preternaturally serious young college student in Tokyo, is devoted to Naoko, a beautiful and introspective young woman, but their mutual passion is marked by the tragic death of their best friend years before. Toru begins to adapt to campus life and the loneliness and isolation he faces there, but Naoko finds the pressures and responsibilities of life unbearable. As she retreats further into her own world, Toru finds himself reaching out to others and drawn to a fiercely independent and sexually liberated young woman.<br /><br />A poignant story of one college student's romantic coming-of-age, <b>Norwegian Wood</b> takes us to that distant place of a young man's first, hopeless, and heroic love."
+          }
+        },
+        {
+          "book": {
+            "title": "The Catcher in the Rye",
+            "numOfPages": "277",
+            "authors": "J.D. Salinger",
+            "link":
+              "https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye",
+            "publicationYear": "2001",
+            "averageRating": "3.79",
+            "ratingCount": "2152523",
+            "description":
+              "The hero-narrator of <i>The Catcher in the Rye</i> is an ancient child of sixteen, a native New Yorker named Holden Caulfield. Through circumstances that tend to preclude adult, secondhand description, he leaves his prep school in Pennsylvania and goes underground in New York City for three days. The boy himself is at once too simple and too complex for us to make any final comment about him or his story. Perhaps the safest thing we can say about Holden is that he was born in the world not just strongly attracted to beauty but, almost, hopelessly impaled on it. There are many voices in this novel: children's voices, adult voices, underground voices-but Holden's voice is the most eloquent of all. Transcending his own vernacular, yet remaining marvelously faithful to it, he issues a perfectly articulated cry of mixed pain and pleasure. However, like most lovers and clowns and poets of the higher orders, he keeps most of the pain to, and for, himself. The pleasure he gives away, or sets aside, with all his heart. It is there for the reader who can handle it to keep. <br /><br />J.D. Salinger's classic novel of teenage angst and rebellion was first published in 1951. The novel was included on <i>Time</i>'s 2005 list of the 100 best English-language novels written since 1923. It was named by Modern Library and its readers as one of the 100 best English-language novels of the 20th century. It has been frequently challenged in the court for its liberal use of profanity and portrayal of sexuality and in the 1950's and 60's it was the novel that every teenage boy wants to read."
+          }
+        },
+        {
+          "book": {
+            "title": "And the Mountains Echoed",
+            "numOfPages": "404",
+            "authors": "Khaled Hosseini",
+            "link":
+              "https://www.goodreads.com/book/show/16115612-and-the-mountains-echoed",
+            "publicationYear": "2013",
+            "averageRating": "4.03",
+            "ratingCount": "233105",
+            "description":
+              "<b>An unforgettable novel about finding a lost piece of yourself in someone else.</b><br /><br />Khaled Hosseini, the #1 <i>New York Times</i>–bestselling author of <i>The Kite Runner</i> and <i>A Thousand Splendid Suns</i>, has written a new novel about how we love, how we take care of one another, and how the choices we make resonate through generations. <br /><br />In this tale revolving around not just parents and children but brothers and sisters, cousins and caretakers, Hosseini explores the many ways in which families nurture, wound, betray, honor, and sacrifice for one another; and how often we are surprised by the actions of those closest to us, at the times that matter most. <br /><br />Following its characters and the ramifications of their lives and choices and loves around the globe—from Kabul to Paris to San Francisco to the Greek island of Tinos—the story expands gradually outward, becoming more emotionally complex and powerful with each turning page."
+          }
+        },
+        {
+          "book": {
+            "title": "Cibola Burn (The Expanse, #4)",
+            "numOfPages": "581",
+            "authors": "James S.A. Corey",
+            "link": "https://www.goodreads.com/book/show/18656030-cibola-burn",
+            "publicationYear": "2014",
+            "averageRating": "4.12",
+            "ratingCount": "30624",
+            "description":
+              "<b>The fourth novel in James S.A. Corey’s New York Times bestselling Expanse series</b><br /><br />The gates have opened the way to thousands of habitable planets, and the land rush has begun. Settlers stream out from humanity's home planets in a vast, poorly controlled flood, landing on a new world. Among them, the Rocinante, haunted by the vast, posthuman network of the protomolecule as they investigate what destroyed the great intergalactic society that built the gates and the protomolecule.<br /><br />But Holden and his crew must also contend with the growing tensions between the settlers and the company which owns the official claim to the planet. Both sides will stop at nothing to defend what's theirs, but soon a terrible disease strikes and only Holden - with help from the ghostly Detective Miller - can find the cure."
+          }
+        },
+        {
+          "book": {
+            "title": "All the Light We Cannot See",
+            "numOfPages": "531",
+            "authors": "Anthony Doerr",
+            "link":
+              "https://www.goodreads.com/book/show/18143977-all-the-light-we-cannot-see",
+            "publicationYear": "2014",
+            "averageRating": "4.31",
+            "ratingCount": "572147",
+            "description":
+              "A stunningly ambitious and beautiful novel about a blind French girl and a German boy whose paths collide in occupied France as both try to survive the devastation of World War II. <br /><br />From the highly acclaimed, multiple award-winning Anthony Doerr, a stunningly ambitious and beautiful novel about a blind French girl and a German boy whose paths collide in occupied France as both try to survive the devastation of World War II. <br /><br />Marie Laure lives with her father in Paris within walking distance of the Museum of Natural History where he works as the master of the locks (there are thousands of locks in the museum). When she is six, she goes blind, and her father builds her a model of their neighborhood, every house, every manhole, so she can memorize it with her fingers and navigate the real streets with her feet and cane. When the Germans occupy Paris, father and daughter flee to Saint-Malo on the Brittany coast, where Marie-Laure's agoraphobic great uncle lives in a tall, narrow house by the sea wall. <br /><br />In another world in Germany, an orphan boy, Werner, grows up with his younger sister, Jutta, both enchanted by a crude radio Werner finds. He becomes a master at building and fixing radios, a talent that wins him a place at an elite and brutal military academy and, ultimately, makes him a highly specialized tracker of the Resistance. Werner travels through the heart of Hitler Youth to the far-flung outskirts of Russia, and finally into Saint-Malo, where his path converges with Marie-Laure.<br /><br />Doerr's gorgeous combination of soaring imagination with observation is electric. Deftly interweaving the lives of Marie-Laure and Werner, Doerr illuminates the ways, against all odds, people try to be good to one another. Ten years in the writing, All the Light We Cannot See is his most ambitious and dazzling work."
+          }
+        },
+        {
+          "book": {
+            "title": "Memory Man (Amos Decker, #1)",
+            "numOfPages": "417",
+            "authors": "David Baldacci",
+            "link": "https://www.goodreads.com/book/show/24356703-memory-man",
+            "publicationYear": "",
+            "averageRating": "4.05",
+            "ratingCount": "58923",
+            "description":
+              "Amos Decker's life changed forever--twice.<br /><br />The first time was on the gridiron. A big, towering athlete, he was the only person from his hometown of Burlington ever to go pro. But his career ended before it had a chance to begin. On his very first play, a violent helmet-to-helmet collision knocked him off the field for good, and left him with an improbable side effect--he can never forget anything.<br /><br />The second time was at home nearly two decades later. Now a police detective, Decker returned from a stakeout one evening and entered a nightmare--his wife, young daughter, and brother-in-law had been murdered.<br /><br />His family destroyed, their killer's identity as mysterious as the motive behind the crime, and unable to forget a single detail from that horrible night, Decker finds his world collapsing around him. He leaves the police force, loses his home, and winds up on the street, taking piecemeal jobs as a private investigator when he can.<br /><br />But over a year later, a man turns himself in to the police and confesses to the murders. At the same time a horrific event nearly brings Burlington to its knees, and Decker is called back in to help with this investigation. Decker also seizes his chance to learn what really happened to his family that night. To uncover the stunning truth, he must use his remarkable gifts and confront the burdens that go along with them. He must endure the memories he would much rather forget. And he may have to make the ultimate sacrifice.<br /><br /><i>Memory Man</i> will stay with you long after the turn of the final page."
+          }
+        },
+        {
+          "book": {
+            "title": "The Martian",
+            "numOfPages": "369",
+            "authors": "Andy Weir",
+            "link": "https://www.goodreads.com/book/show/18007564-the-martian",
+            "publicationYear": "2014",
+            "averageRating": "4.39",
+            "ratingCount": "540733",
+            "description":
+              "Six days ago, astronaut Mark Watney became one of the first people to walk on Mars. <br /><br />Now, he’s sure he’ll be the first person to die there.<br /><br />After a dust storm nearly kills him and forces his crew to evacuate while thinking him dead, Mark finds himself stranded and completely alone with no way to even signal Earth that he’s alive — and even if he could get word out, his supplies would be gone long before a rescue could arrive. <br /><br />Chances are, though, he won’t have time to starve to death. The damaged machinery, unforgiving environment, or plain-old “human error” are much more likely to kill him first. <br /><br />But Mark isn’t ready to give up yet. Drawing on his ingenuity, his engineering skills — and a relentless, dogged refusal to quit — he steadfastly confronts one seemingly insurmountable obstacle after the next. Will his resourcefulness be enough to overcome the impossible odds against him?<br /><br />"
+          }
+        },
+        {
+          "book": {
+            "title": "Orphan Train",
+            "numOfPages": "278",
+            "authors": "Christina Baker Kline",
+            "link": "https://www.goodreads.com/book/show/15818107-orphan-train",
+            "publicationYear": "2013",
+            "averageRating": "4.14",
+            "ratingCount": "270951",
+            "description":
+              "The author of <i>Bird in Hand</i> and <i>The Way Life Should Be</i> delivers her most ambitious and powerful novel to date: a captivating story of two very different women who build an unexpected friendship: a 91-year-old woman with a hidden past as an orphan-train rider and the teenage girl whose own troubled adolescence leads her to seek answers to questions no one has ever thought to ask.<br /><br />Nearly eighteen, Molly Ayer knows she has one last chance. Just months from \"aging out\" of the child welfare system, and close to being kicked out of her foster home, a community service position helping an elderly woman clean out her home is the only thing keeping her out of juvie and worse.<br /><br />Vivian Daly has lived a quiet life on the coast of Maine. But in her attic, hidden in trunks, are vestiges of a turbulent past. As she helps Vivian sort through her possessions and memories, Molly discovers that she and Vivian aren't as different as they seem to be. A young Irish immigrant orphaned in New York City, Vivian was put on a train to the Midwest with hundreds of other children whose destinies would be determined by luck and chance.<br /><br />The closer Molly grows to Vivian, the more she discovers parallels to her own life. A Penobscot Indian, she, too, is an outsider being raised by strangers, and she, too, has unanswered questions about the past. As her emotional barriers begin to crumble, Molly discovers that she has the power to help Vivian find answers to mysteries that have haunted her for her entire life - answers that will ultimately free them both.<br /><br />Rich in detail and epic in scope, <i>Orphan Train</i> is a powerful novel of upheaval and resilience, of second chances, of unexpected friendship, and of the secrets we carry that keep us from finding out who we are."
+          }
+        },
+        {
+          "book": {
+            "title": "Fool's Gold",
+            "numOfPages": "338",
+            "authors": "Gillian Tett",
+            "link": "https://www.goodreads.com/book/show/6442950-fool-s-gold",
+            "publicationYear": "2009",
+            "averageRating": "3.82",
+            "ratingCount": "2442",
+            "description":
+              "From award-winning \"Financial Times\" journalist Gillian Tett, who enraged Wall Street leaders with her newsbreaking warnings of a crisis more than a year ahead of the curve, \"Fool's Gold\" tells the astonishing unknown story at the heart of the 2008 meltdown. Drawing on exclusive access to J.P. Morgan CEO Jamie Dimon and a tightly bonded team of bankers known on Wall Street as the \"Morgan Mafia,\" as well as in-depth interviews with dozens of other key players, including Treasury Secretary Timothy Geithner, Tett brings to life in gripping detail how the Morgan team's bold ideas for a whole new kind of financial alchemy helped to ignite a revolution in banking, and how that revolution escalated wildly out of control.<br /><br />The deeply reported and lively narrative takes readers behind the scenes, to the inner sanctums of elite finance and to the secretive reaches of what came to be known as the \"shadow banking\" world. The story begins with the intense Morgan brainstorming session in 1994 beside a pool in Boca Raton, where the team cooked up a dazzling new idea for the exotic financial product known as credit derivatives. That idea would rip around the banking world, catapult Morgan to the top of the turbocharged derivatives trade, and fuel an extraordinary banking boom that seemed to have unleashed banks from ages-old constraints of risk.<br /><br />But when the Morgan team's derivatives dream collided with the housing boom, and was perverted -- through hubris, delusion, and sheer greed -- by titans of banking that included Citigroup, UBS, Deutsche Bank, and the thundering herd at Merrill Lynch -- even as J.P. Morgan itself stayed well away from the risky concoctions others were peddling -- catastrophe followed. Tett's access to Dimon and the J.P. Morgan leaders who so skillfully steered their bank away from the wild excesses of others sheds invaluable light not only on the untold story of how they engineered their bank's escape from carnage but also on how possible it was for the larger banking world, regulators, and rating agencies to have spotted, and heeded, the terrible risks of a meltdown.<br /><br />A tale of blistering brilliance and willfully blind ambition, \"Fool's Gold\" is both a rare journey deep inside the arcane and wildly competitive world of high finance and a vital contribution to understanding how the worst economic crisis since the Great Depression was perpetrated."
+          }
+        },
+        {
+          "book": {
+            "title": "The Fault in Our Stars",
+            "numOfPages": "313",
+            "authors": "John Green",
+            "link":
+              "https://www.goodreads.com/book/show/11870085-the-fault-in-our-stars",
+            "publicationYear": "2012",
+            "averageRating": "4.26",
+            "ratingCount": "2541487",
+            "description":
+              "<i>There is an alternate cover edition <a href=\"https://www.goodreads.com/book/show/25856606-the-fault-in-our-stars\" rel=\"nofollow\">here</a>.</i><br /><br />\"I fell in love the way you fall asleep: slowly, then all at once.\"<br /><br />Despite the tumor-shrinking medical miracle that has bought her a few years, Hazel has never been anything but terminal, her final chapter inscribed upon diagnosis. But when a gorgeous plot twist named Augustus Waters suddenly appears at Cancer Kid Support Group, Hazel's story is about to be completely rewritten.<br /><br />Insightful, bold, irreverent, and raw, The Fault in Our Stars is award-winning author John Green's most ambitious and heartbreaking work yet, brilliantly exploring the funny, thrilling, and tragic business of being alive and in love."
+          }
+        },
+        {
+          "book": {
+            "title": "Never Go Back (Jack Reacher, #18)",
+            "numOfPages": "400",
+            "authors": "Lee Child",
+            "link":
+              "https://www.goodreads.com/book/show/17262159-never-go-back",
+            "publicationYear": "2013",
+            "averageRating": "4.02",
+            "ratingCount": "43811",
+            "description":
+              "After an epic and interrupted journey all the way from the snows of South Dakota, Jack Reacher has finally made it to Virginia. His destination: a sturdy stone building a short bus ride from Washington D.C., the headquarters of his old unit, the 110th MP. It was the closest thing to a home he ever had.<p>Why? He wants to meet the new commanding officer, Major Susan Turner. He liked her voice on the phone. But the officer sitting behind Reacher’s old desk isn't a woman. Why is Susan Turner not there?</p><p>What Reacher doesn’t expect is what comes next. He himself is in big trouble, accused of a sixteen-year-old homicide. And he certainly doesn't expect to hear these words: ‘You’re back in the army, Major. And your ass is mine.’</p><p>Will he be sorry he went back? Or – will someone else?</p>"
+          }
+        },
+        {
+          "book": {
+            "title": "A Thousand Splendid Suns",
+            "numOfPages": "372",
+            "authors": "Khaled Hosseini",
+            "link":
+              "https://www.goodreads.com/book/show/128029.A_Thousand_Splendid_Suns",
+            "publicationYear": "",
+            "averageRating": "4.34",
+            "ratingCount": "879551",
+            "description":
+              "At once an incredible chronicle of thirty years of Afghan history and a deeply moving story of family, friendship, faith, and the salvation to be found in love.<br /><br />Propelled by the same superb instinct for storytelling that made The Kite Runner a beloved classic, A Thousand Splendid Suns is at once an incredible chronicle of thirty years of Afghan history and a deeply moving story of family, friendship, faith, and the salvation to be found in love. <br /><br />Born a generation apart and with very different ideas about love and family, Mariam and Laila are two women brought jarringly together by war, by loss and by fate. As they endure the ever escalating dangers around them - in their home as well as in the streets of Kabul - they come to form a bond that makes them both sisters and mother-daughter to each other, and that will ultimately alter the course not just of their own lives but of the next generation. With heart-wrenching power and suspense, Hosseini shows how a woman's love for her family can move her to shocking and heroic acts of self-sacrifice, and that in the end it is love, or even the memory of love, that is often the key to survival."
+          }
+        },
+        {
+          "book": {
+            "title": "Only Time Will Tell (The Clifton Chronicles, #1)",
+            "numOfPages": "",
+            "authors": "Jeffrey Archer",
+            "link":
+              "https://www.goodreads.com/book/show/10872085-only-time-will-tell",
+            "publicationYear": "",
+            "averageRating": "4.04",
+            "ratingCount": "55643",
+            "description":
+              "<b>\n  <blockquote>From the internationally bestselling author of <i>Kane and Abel</i> and <i>A Prisoner of Birth</i> comes <i>Only Time Will Tell</i>, the first in an ambitious new series that tells the story of one family across generations, across oceans, from heartbreak to triumph.</blockquote>\n</b>The epic tale of Harry Clifton’s life begins in 1920, with the words “I was told that my father was killed in the war.” A dock worker in Bristol, Harry never knew his father, but he learns about life on the docks from his uncle, who expects Harry to join him at the shipyard once he’s left school. But then an unexpected gift wins him a scholarship to an exclusive boys’ school, and his life will never be the same again.<p>As he enters into adulthood, Harry finally learns how his father really died, but the awful truth only leads him to question, was he even his father? Is he the son of Arthur Clifton, a stevedore who spent his whole life on the docks, or the firstborn son of a scion of West Country society, whose family owns a shipping line?</p><p>This introductory novel in Archer’s ambitious series The Clifton Chronicles includes a cast of colorful characters and takes us from the ravages of the Great War to the outbreak of the Second World War, when Harry must decide whether to take up a place at Oxford or join the navy and go to war with Hitler’s Germany. From the docks of working-class England to the bustling streets of 1940 New York City, <i>Only Time Will Tell</i> takes readers on a journey through to future volumes, which will bring to life one hundred years of recent history to reveal a family story that neither the reader nor Harry Clifton himself could ever have imagined.</p>"
+          }
+        },
+        {
+          "book": {
+            "title": "The Twelve (The Passage, #2)",
+            "numOfPages": "568",
+            "authors": "Justin Cronin",
+            "link": "https://www.goodreads.com/book/show/13281368-the-twelve",
+            "publicationYear": "2012",
+            "averageRating": "3.99",
+            "ratingCount": "68966",
+            "description":
+              "In his internationally bestselling and critically acclaimed novel <i>The Passage</i>, Justin Cronin constructed an unforgettable world transformed by a government experiment gone horribly wrong. Now the scope widens and the intensity deepens as the epic story surges forward with <i>The Twelve</i>.<br /><br />In the present day, as the man-made apocalypse unfolds, three strangers navigate the chaos. Lila, a doctor and an expectant mother, is so shattered by the spread of violence and infection that she continues to plan for her child’s arrival even as society dissolves around her. Kittridge, known to the world as “Last Stand in Denver,” has been forced to flee his stronghold and is now on the road, dodging the infected, armed but alone and well aware that a tank of gas will get him only so far. April is a teenager fighting to guide her little brother safely through a landscape of death and ruin. These three will learn that they have not been fully abandoned—and that in connection lies hope, even on the darkest of nights.<br /><br />One hundred years in the future, Amy and the others fight on for humankind’s salvation...unaware that the rules have changed. The enemy has evolved, and a dark new order has arisen with a vision of the future infinitely more horrifying than man’s extinction. If the Twelve are to fall, one of those united to vanquish them will have to pay the ultimate price."
+          }
+        },
+        {
+          "book": {
+            "title": "Bloodline (Sigma Force, #8)",
+            "numOfPages": "464",
+            "authors": "James Rollins",
+            "link": "https://www.goodreads.com/book/show/13148921-bloodline",
+            "publicationYear": "2012",
+            "averageRating": "4.23",
+            "ratingCount": "15471",
+            "description":
+              "<b>\n  <blockquote><i>New York Times</i> bestselling author James Rollins takes you to the edge of modern medicine, genetics, and technology, revealing the next evolutionary leap forward: Immortality — a future conceived through the monstrous ingenuity of man...</blockquote>\n</b>Galilee, 1025. A cunning Templar knight uncovers a holy treasure: the Bachal Isu — the staff of Jesus Christ — a priceless icon that holds a mysterious and terrifying power that will forever change humanity if unleashed.<p>A millennium later, Somali pirates hijack a yacht off the coast off the Horn of Africa, kidnapping a young pregnant American woman and brutally killing her husband. Painter Crowe and his SIGMA team are enlisted for the top secret rescue mission. The kidnapped woman is Amanda Gant-Bennett, the daughter of U.S. president James Gant. Crowe is more than a little suspicious that the kidnapping masks a far more nefarious plot.</p><p>In the field, Commander Gray Pierce leads his small team of operatives into the treacherous African jungle to find the missing woman. But what should be a straightforward rescue turns into a fiery ambush and a deadly act of betrayal. As Commander Pierce and his team discover, the hostage is a pawn in a shattering act of terrorism with dark and shocking repercussions. And the danger is only beginning...</p>"
+          }
+        },
+        {
+          "book": {
+            "title": "Portrait of a Spy (Gabriel Allon, #11)",
+            "numOfPages": "448",
+            "authors": "Daniel Silva",
+            "link":
+              "https://www.goodreads.com/book/show/9975779-portrait-of-a-spy",
+            "publicationYear": "2011",
+            "averageRating": "4.24",
+            "ratingCount": "19901",
+            "description":
+              "A man with a deep appreciation for all that is beautiful, Gabriel is also an angel of vengeance, an international operative who will stop at nothing to see justice done. Sometimes he must journey far in search of evil. And sometimes evil comes to him.<p>\n  <b>\"In a dangerous world, one extraordinary woman can mean the difference between life and death. . . .\"</b>\n</p><p> For Gabriel and his wife, Chiara, it was supposed to be the start of a pleasant weekend in London--a visit to a gallery in St. James's to authenticate a newly discovered painting by Titian, followed by a quiet lunch. But a pair of deadly bombings in Paris and Copenhagen has already marred this autumn day. And while walking toward Covent Garden, Gabriel notices a man he believes is about to carry out a third attack. Before Gabriel can draw his weapon, he is knocked to the pavement and can only watch as the nightmare unfolds.</p><p>Haunted by his failure to stop the massacre of innocents, Gabriel returns to his isolated cottage on the cliffs of Cornwall, until a summons brings him to Washington and he is drawn into a confrontation with the new face of global terror. At the center of the threat is an American-born cleric in Yemen to whom Allah has granted \"a beautiful and seductive tongue.\" A gifted deceiver, who was once a paid CIA asset, the mastermind is plotting a new wave of attacks.</p><p>Gabriel and his team devise a daring plan to destroy the network of death from the inside, a gambit fraught with risk, both personal and professional. To succeed, Gabriel must reach into his violent past. A woman waits there--a reclusive heiress and art collector who can traverse the murky divide between Islam and the West. She is the daughter of an old enemy, a woman joined to Gabriel by a trail of blood. . . .</p>"
+          }
+        },
+        {
+          "book": {
+            "title": "Before I Go to Sleep",
+            "numOfPages": "359",
+            "authors": "S.J. Watson",
+            "link":
+              "https://www.goodreads.com/book/show/9736930-before-i-go-to-sleep",
+            "publicationYear": "2011",
+            "averageRating": "3.87",
+            "ratingCount": "217076",
+            "description":
+              "Memories define us. So what if you lost yours every time you went to sleep? Welcome to Christine's life.<br /><br />S. J. Watson makes his debut with this fast-paced psychological thriller, reminiscent of Shutter Island and Memento.<br /><br />A terrible accident has robbed Christine of her memories. She cannot remember the past - or even yesterday. Determined to discover who she is, she has begun keeping a journal before she goes to sleep. Before she can forget again.<br /><br />But the truth may be more terrifying - and deadlier - than she bargained for..."
+          }
+        },
+        {
+          "book": {
+            "title":
+              "In the Garden of Beasts: Love, Terror, and an American Family in Hitler's Berlin",
+            "numOfPages": "448",
+            "authors": "Erik Larson",
+            "link":
+              "https://www.goodreads.com/book/show/9938498-in-the-garden-of-beasts",
+            "publicationYear": "2011",
+            "averageRating": "3.81",
+            "ratingCount": "124775",
+            "description":
+              "The time is 1933, the place, Berlin, when William E. Dodd becomes America's first ambassador to Hitler's Germany in a year that proved to be a turning point in history.<p>A mild-mannered professor from Chicago, Dodd brings along his wife, son, and flamboyant daughter, Martha. At first Martha is entranced by the parties and pomp, and the handsome young men of the Third Reich with their infectious enthusiasm for restoring Germany to a position of world prominence. Enamored of the New Germany, she has one affair after another, including with the surprisingly honorable first chief of the Gestapo, Rudolf Diels. But as evidence of Jewish persecution mounts, confirmed by chilling first-person testimony, her father telegraphs his concerns to a largely indifferent State Department back home. Dodd watches with alarm as Jews are attacked, the press is censored, and drafts of frightening new laws begin to circulate. As that first year unfolds and the shadows deepen, the Dodds experience days full of excitement, intrigue, romance and ultimately, horror, when a climactic spasm of violence and murder reveals Hitler's true character and ruthless ambition.</p><p>Suffused with the tense atmosphere of the period, and with unforgettable portraits of the bizarre Goring and the expectedly charming—yet wholly sinister—Goebbels, <em>In the Garden of Beasts</em> lends a stunning, eyewitness perspective on events as they unfold in real time, revealing an era of surprising nuance and complexity. The result is a dazzling, addictively readable work that speaks volumes about why the world did not recognize the grave threat posed by Hitler until Berlin, and Europe, were awash in blood and terror.</p>"
+          }
+        },
+        {
+          "book": {
+            "title": "Eat, Pray, Love",
+            "numOfPages": "334",
+            "authors": "Elizabeth Gilbert",
+            "link": "https://www.goodreads.com/book/show/19501.Eat_Pray_Love",
+            "publicationYear": "",
+            "averageRating": "3.51",
+            "ratingCount": "1220652",
+            "description":
+              "A celebrated writer's irresistible, candid, and eloquent account of her pursuit of worldly pleasure, spiritual devotion, and what she really wanted out of life. <br /><br />Around the time Elizabeth Gilbert turned thirty, she went through an early-onslaught midlife crisis. She had everything an educated, ambitious American woman was supposed to want—a husband, a house, a successful career. But instead of feeling happy and fulfilled, she was consumed with panic, grief, and confusion. She went through a divorce, a crushing depression, another failed love, and the eradication of everything she ever thought she was supposed to be. <br /><br />To recover from all this, Gilbert took a radical step. In order to give herself the time and space to find out who she really was and what she really wanted, she got rid of her belongings, quit her job, and undertook a yearlong journey around the world—all alone. Eat, Pray, Love is the absorbing chronicle of that year. Her aim was to visit three places where she could examine one aspect of her own nature set against the backdrop of a culture that has traditionally done that one thing very well. In Rome, she studied the art of pleasure, learning to speak Italian and gaining the twenty-three happiest pounds of her life. India was for the art of devotion, and with the help of a native guru and a surprisingly wise cowboy from Texas, she embarked on four uninterrupted months of spiritual exploration. In Bali, she studied the art of balance between worldly enjoyment and divine transcendence. She became the pupil of an elderly medicine man and also fell in love the best way—unexpectedly. <br /><br />An intensely articulate and moving memoir of self-discovery, Eat, Pray, Love is about what can happen when you claim responsibility for your own contentment and stop trying to live in imitation of society’s ideals. It is certain to touch anyone who has ever woken up to the unrelenting need for change."
+          }
+        },
+        {
+          "book": {
+            "title": "The Immortal Life of Henrietta Lacks",
+            "numOfPages": "370",
+            "authors": "Rebecca Skloot",
+            "link":
+              "https://www.goodreads.com/book/show/6493208-the-immortal-life-of-henrietta-lacks",
+            "publicationYear": "2010",
+            "averageRating": "4.04",
+            "ratingCount": "414519",
+            "description":
+              "<blockquote>\n  <b>Intimate in feeling, astonishing in scope, and impossible to put down, The Immortal Life of Henrietta Lacks captures the beauty and drama of scientific discovery, as well as its human consequences.</b>\n</blockquote>Her name was Henrietta Lacks, but scientists know her as HeLa. She was a poor Southern tobacco farmer who worked the same land as her slave ancestors, yet her cells—taken without her knowledge—became one of the most important tools in medicine. The first “immortal” human cells grown in culture, they are still alive today, though she has been dead for more than sixty years. If you could pile all HeLa cells ever grown onto a scale, they’d weigh more than 50 million metric tons—as much as a hundred Empire State Buildings. HeLa cells were vital for developing the polio vaccine; uncovered secrets of cancer, viruses, and the atom bomb’s effects; helped lead to important advances like in vitro fertilization, cloning, and gene mapping; and have been bought and sold by the billions.<p>Yet Henrietta Lacks remains virtually unknown, buried in an unmarked grave.</p><p>Now Rebecca Skloot takes us on an extraordinary journey, from the “colored” ward of Johns Hopkins Hospital in the 1950s to stark white laboratories with freezers full of HeLa cells; from Henrietta’s small, dying hometown of Clover, Virginia — a land of wooden slave quarters, faith healings, and voodoo — to East Baltimore today, where her children and grandchildren live and struggle with the legacy of her cells.</p><p>Henrietta’s family did not learn of her “immortality” until more than twenty years after her death, when scientists investigating HeLa began using her husband and children in research without informed consent. And though the cells had launched a multimillion-dollar industry that sells human biological materials, her family never saw any of the profits. As Rebecca Skloot so brilliantly shows, the story of the Lacks family — past and present — is inextricably connected to the dark history of experimentation on African Americans, the birth of bioethics, and the legal battles over whether we control the stuff we are made of.</p><p>Over the decade it took to uncover this story, Rebecca became enmeshed in the lives of the Lacks family—especially Henrietta’s daughter Deborah, who was devastated to learn about her mother’s cells. She was consumed with questions: Had scientists cloned her mother? Did it hurt her when researchers infected her cells with viruses and shot them into space? What happened to her sister, Elsie, who died in a mental institution at the age of fifteen? And if her mother was so important to medicine, why couldn’t her children afford health insurance?</p><p>Intimate in feeling, astonishing in scope, and impossible to put down, <i>The Immortal Life of Henrietta Lacks</i> captures the beauty and drama of scientific discovery, as well as its human consequences.</p>"
+          }
+        },
+        {
+          "book": {
+            "title": "The Girl with the Dragon Tattoo (Millennium, #1)",
+            "numOfPages": "465",
+            "authors": "Stieg Larsson",
+            "link":
+              "https://www.goodreads.com/book/show/2429135.The_Girl_with_the_Dragon_Tattoo",
+            "publicationYear": "2008",
+            "averageRating": "4.11",
+            "ratingCount": "1968451",
+            "description":
+              "A spellbinding amalgam of murder mystery, family saga, love story and financial intrigue.<br /><br />A Sensational #1 Bestseller – Now a Major Motion Picture In Theaters March 2010.<br /><br />A spellbinding amalgam of murder mystery, family saga, love story, and financial intrigue.<br /><br />It’s about the disappearance forty years ago of Harriet Vanger, a young scion of one of the wealthiest families in Sweden . . . and about her octogenarian uncle, determined to know the truth about what he believes was her murder.<br /><br />It’s about Mikael Blomkvist, a crusading journalist recently at the wrong end of a libel case, hired to get to the bottom of Harriet’s disappearance . . . and about Lisbeth Salander, a twenty-four-year-old pierced and tattooed genius hacker possessed of the hard-earned wisdom of someone twice her age—and a terrifying capacity for ruthlessness to go with it—who assists Blomkvist with the investigation. This unlikely team discovers a vein of nearly unfathomable iniquity running through the Vanger family, astonishing corruption in the highest echelons of Swedish industrialism—and an unexpected connection between themselves.<br /><br />It’s a contagiously exciting, stunningly intelligent novel about society at its most hidden, and about the intimate lives of a brilliantly realized cast of characters, all of them forced to face the darker aspects of their world and of their own lives."
+          }
+        },
+        {
+          "book": {
+            "title": "Angels & Demons  (Robert Langdon, #1)",
+            "numOfPages": "736",
+            "authors": "Dan Brown",
+            "link": "https://www.goodreads.com/book/show/960.Angels_Demons",
+            "publicationYear": "2006",
+            "averageRating": "3.86",
+            "ratingCount": "2110848",
+            "description":
+              "An ancient secret brotherhood.<br />A devastating new weapon of destruction.<br />An unthinkable target... <br /><br />When world-renowned Harvard symbologist Robert Langdon is summoned to a Swiss research facility to analyze a mysterious symbol -- seared into the chest of a murdered physicist -- he discovers evidence of the unimaginable: the resurgence of an ancient secret brotherhood known as the Illuminati... the most powerful underground organization ever to walk the earth. The Illuminati has surfaced from the shadows to carry out the final phase of its legendary vendetta against its most hated enemy... the Catholic Church. <br /><br />Langdon's worst fears are confirmed on the eve of the Vatican's holy conclave, when a messenger of the Illuminati announces he has hidden an unstoppable time bomb at the very heart of Vatican City. With the countdown under way, Langdon jets to Rome to join forces with Vittoria Vetra, a beautiful and mysterious Italian scientist, to assist the Vatican in a desperate bid for survival. <br /><br />Embarking on a frantic hunt through sealed crypts, dangerous catacombs, deserted cathedrals, and even to the heart of the most secretive vault on earth, Langdon and Vetra follow a 400-year old trail of ancient symbols that snakes across Rome toward the long-forgotten Illuminati lair... a secret location that contains the only hope for Vatican salvation. <br /><br />An explosive international thriller, Angels &amp; Demons careens from enlightening epiphanies to dark truths as the battle between science and religion turns to war."
+          }
+        },
+        {
+          "book": {
+            "title": "The Hunger Games (The Hunger Games, #1)",
+            "numOfPages": "374",
+            "authors": "Suzanne Collins",
+            "link":
+              "https://www.goodreads.com/book/show/2767052-the-hunger-games",
+            "publicationYear": "2008",
+            "averageRating": "4.34",
+            "ratingCount": "5032409",
+            "description":
+              "<b>Winning will make you famous. <br />Losing means certain death.</b><br /><br />The nation of Panem, formed from a post-apocalyptic North America, is a country that consists of a wealthy Capitol region surrounded by 12 poorer districts. Early in its history, a rebellion led by a 13th district against the Capitol resulted in its destruction and the creation of an annual televised event known as the Hunger Games. In punishment, and as a reminder of the power and grace of the Capitol, each district must yield one boy and one girl between the ages of 12 and 18 through a lottery system to participate in the games. The 'tributes' are chosen during the annual Reaping and are forced to fight to the death, leaving only one survivor to claim victory.<br /><br />When 16-year-old Katniss's young sister, Prim, is selected as District 12's female representative, Katniss volunteers to take her place. She and her male counterpart Peeta, are pitted against bigger, stronger representatives, some of whom have trained for this their whole lives. , she sees it as a death sentence. But Katniss has been close to death before. For her, survival is second nature."
+          }
+        },
+        {
+          "book": {
+            "title": "A Game of Thrones (A Song of Ice and Fire, #1)",
+            "numOfPages": "848",
+            "authors": "George R.R. Martin",
+            "link":
+              "https://www.goodreads.com/book/show/13496.A_Game_of_Thrones",
+            "publicationYear": "2005",
+            "averageRating": "4.45",
+            "ratingCount": "1476073",
+            "description":
+              "Summers span decades. Winter can last a lifetime. And the struggle for the Iron Throne has begun.<br /><br />As Warden of the north, Lord Eddard Stark counts it a curse when King Robert bestows on him the office of the Hand. His honour weighs him down at court where a true man does what he will, not what he must … and a dead enemy is a thing of beauty.<br /><br />The old gods have no power in the south, Stark’s family is split and there is treachery at court. Worse, the vengeance-mad heir of the deposed Dragon King has grown to maturity in exile in the Free Cities. He claims the Iron Throne."
+          }
+        },
+        {
+          "book": {
+            "title": "The Night Circus",
+            "numOfPages": "400",
+            "authors": "Erin Morgenstern",
+            "link":
+              "https://www.goodreads.com/book/show/9361589-the-night-circus",
+            "publicationYear": "2011",
+            "averageRating": "4.03",
+            "ratingCount": "484738",
+            "description":
+              "The circus arrives without warning. No announcements precede it. It is simply there, when yesterday it was not. Within the black-and-white striped canvas tents is an utterly unique experience full of breathtaking amazements. It is called Le Cirque des Rêves, and it is only open at night...<br /><br />The circus arrives without warning. No announcements precede it. It is simply there, when yesterday it was not. Within the black-and-white striped canvas tents is an utterly unique experience full of breathtaking amazements. It is called Le Cirque des Rêves, and it is only open at night. <br /><br />But behind the scenes, a fierce competition is underway - a duel between two young magicians, Celia and Marco, who have been trained since childhood expressly for this purpose by their mercurial instructors. Unbeknownst to them, this is a game in which only one can be left standing, and the circus is but the stage for a remarkable battle of imagination and will. Despite themselves, however, Celia and Marco tumble headfirst into love - a deep, magical love that makes the lights flicker and the room grow warm whenever they so much as brush hands. <br /><br />True love or not, the game must play out, and the fates of everyone involved, from the cast of extraordinary circus per­formers to the patrons, hang in the balance, suspended as precariously as the daring acrobats overhead. <br /><br />Written in rich, seductive prose, this spell-casting novel is a feast for the senses and the heart."
+          }
+        },
+        {
+          "book": {
+            "title": "Harry Potter and the Sorcerer's Stone",
+            "numOfPages": "320",
+            "authors": "J.K. Rowling",
+            "link":
+              "https://www.goodreads.com/book/show/3.Harry_Potter_and_the_Sorcerer_s_Stone",
+            "publicationYear": "1997",
+            "averageRating": "4.45",
+            "ratingCount": "4926843",
+            "description":
+              "Harry Potter's life is miserable. His parents are dead and he's stuck with his heartless relatives, who force him to live in a tiny closet under the stairs. But his fortune changes when he receives a letter that tells him the truth about himself: he's a wizard. A mysterious visitor rescues him from his relatives and takes him to his new home, Hogwarts School of Witchcraft and Wizardry.<br /><br />After a lifetime of bottling up his magical powers, Harry finally feels like a normal kid. But even within the Wizarding community, he is special. He is the boy who lived: the only person to have ever survived a killing curse inflicted by the evil Lord Voldemort, who launched a brutal takeover of the Wizarding world, only to vanish after failing to kill Harry.<br /><br />Though Harry's first year at Hogwarts is the best of his life, not everything is perfect. There is a dangerous secret object hidden within the castle walls, and Harry believes it's his responsibility to prevent it from falling into evil hands. But doing so will bring him into contact with forces more terrifying than he ever could have imagined.<br /><br />Full of sympathetic characters, wildly imaginative situations, and countless exciting details, the first installment in the series assembles an unforgettable magical world and sets the stage for many high-stakes adventures to come."
+          }
+        }
+      ],
+      "currentReading": [
+        {
+          "book": {
+            "title": "Norse Mythology",
+            "numOfPages": "297",
+            "authors": "Neil Gaiman",
+            "link":
+              "https://www.goodreads.com/book/show/30809689-norse-mythology",
+            "publicationYear": "",
+            "averageRating": "4.11",
+            "ratingCount": "46547",
+            "description":
+              "<strong>Introducing an instant classic—master storyteller Neil Gaiman presents a dazzling version of the great Norse myths.</strong><br /><br />Neil Gaiman has long been inspired by ancient mythology in creating the fantastical realms of his fiction. Now he turns his attention back to the source, presenting a bravura rendition of the great northern tales. In <em>Norse Mythology</em>, Gaiman fashions primeval stories into a novelistic arc that begins with the genesis of the legendary nine worlds; delves into the exploits of the deities, dwarves, and giants; and culminates in Ragnarok, the twilight of the gods and the rebirth of a new time and people. Gaiman stays true to the myths while vividly reincarnating Odin, the highest of the high, wise, daring, and cunning; Thor, Odin’s son, incredibly strong yet not the wisest of gods; and Loki, the son of a giant, a trickster and unsurpassable manipulator. From Gaiman’s deft and witty prose emerges the gods with their fiercely competitive natures, their susceptibility to being duped and to dupe others, and their tendency to let passion ignite their actions, making these long-ago myths breathe pungent life again."
+          }
+        },
+        {
+          "book": {
+            "title": "Paternus (Paternus, #1)",
+            "numOfPages": "464",
+            "authors": "Dyrk Ashton",
+            "link": "https://www.goodreads.com/book/show/30654616-paternus",
+            "publicationYear": "2016",
+            "averageRating": "4.22",
+            "ratingCount": "306",
+            "description":
+              "<b>Even myths have legends. And not all legends are myth.</b><br /><br />The gods of myth, monsters of legend, heroes and villains of lore.<br /><br />They’re real -- and they’re coming back to finish a war that’s been waged since the dawn of time.<br /><br />Fi Patterson and Zeke Prisco’s daily routine of caring for the elderly at a local hospital is shattered when a catatonic patient named Peter unwittingly thrusts them into a conflict between ageless beings beyond reckoning. A war of which he is the primary target, and perhaps the cause.<br /><br />In order to survive, Fi and Zeke must forget everything they know about the world and come to grips with the unimaginable reality of the <i>Firstborn</i>. Only then can they hope to learn the secrets locked in Peter’s mind, help stave off an ancient evil that’s been known by many names and feared by all, and discover truths about themselves perhaps best left hidden.<br /><br /><i>Paternus</i> is Dyrk Ashton’s debut novel, and the first book in the <i>Paternus Trilogy</i>.<br /><br /><b>Genre</b>: Contemporary Fantasy / Urban Fantasy / Mythic Fiction.<br /><br /><b>Market</b>: Adult to New Adult (as opposed to Teen or YA, though savvy 16 or 17 year olds might survive without permanent damage)."
+          }
+        },
+        {
+          "book": {
+            "title": "The Grace of Kings (The Dandelion Dynasty, #1)",
+            "numOfPages": "623",
+            "authors": "Ken Liu",
+            "link":
+              "https://www.goodreads.com/book/show/18952341-the-grace-of-kings",
+            "publicationYear": "2015",
+            "averageRating": "3.75",
+            "ratingCount": "7129",
+            "description":
+              "Two men rebel together against tyranny—and then become rivals—in this first sweeping book of an epic fantasy series from Ken Liu, recipient of Hugo, Nebula, and World Fantasy awards.<br /><br />Wily, charming Kuni Garu, a bandit, and stern, fearless Mata Zyndu, the son of a deposed duke, seem like polar opposites. Yet, in the uprising against the emperor, the two quickly become the best of friends after a series of adventures fighting against vast conscripted armies, silk-draped airships, and shapeshifting gods. Once the emperor has been overthrown, however, they each find themselves the leader of separate factions—two sides with very different ideas about how the world should be run and the meaning of justice.<br /><br />Fans of intrigue, intimate plots, and action will find a new series to embrace in the Dandelion Dynasty."
+          }
+        },
+        {
+          "book": {
+            "title":
+              "Deep Work: Rules for Focused Success in a Distracted World",
+            "numOfPages": "296",
+            "authors": "Cal Newport",
+            "link": "https://www.goodreads.com/book/show/25744928-deep-work",
+            "publicationYear": "2016",
+            "averageRating": "4.19",
+            "ratingCount": "17644",
+            "description":
+              "<b>One of the most valuable skills in our economy is becoming increasingly rare. If you master this skill, you'll achieve extraordinary results.</b><br /><br />Deep work is the ability to focus without distraction on a cognitively demanding task. It's a skill that allows you to quickly master complicated information and produce better results in less time. Deep work will make you better at what you do and provide the sense of true fulfillment that comes from craftsmanship. In short, deep work is like a super power in our increasingly competitive twenty-first century economy. And yet, most people have lost the ability to go deep-spending their days instead in a frantic blur of e-mail and social media, not even realizing there's a better way.<br /><br />In <i>Deep Work</i>, author and professor Cal Newport flips the narrative on impact in a connected age. Instead of arguing distraction is bad, he instead celebrates the power of its opposite. Dividing this book into two parts, he first makes the case that in almost any profession, cultivating a deep work ethic will produce massive benefits. He then presents a rigorous training regimen, presented as a series of four \"rules,\" for transforming your mind and habits to support this skill.<br /><br />A mix of cultural criticism and actionable advice, <i>Deep Work</i> takes the reader on a journey through memorable stories-from Carl Jung building a stone tower in the woods to focus his mind, to a social media pioneer buying a round-trip business class ticket to Tokyo to write a book free from distraction in the air-and no-nonsense advice, such as the claim that most serious professionals should quit social media and that you should practice being bored. <i>Deep Work</i> is an indispensable guide to anyone seeking focused success in a distracted world."
+          }
+        },
+        {
+          "book": {
+            "title": "Sapiens: A Brief History of Humankind",
+            "numOfPages": "443",
+            "authors": "Yuval Noah Harari",
+            "link": "https://www.goodreads.com/book/show/23692271-sapiens",
+            "publicationYear": "2014",
+            "averageRating": "4.42",
+            "ratingCount": "81877",
+            "description":
+              "100,000 years ago, at least six human species inhabited the earth. Today there is just one. Us. Homo sapiens. <br /><br />How did our species succeed in the battle for dominance? Why did our foraging ancestors come together to create cities and kingdoms? How did we come to believe in gods, nations and human rights; to trust money, books and laws; and to be enslaved by bureaucracy, timetables and consumerism? And what will our world be like in the millennia to come? <br /><br />In <i>Sapiens</i>, Dr Yuval Noah Harari spans the whole of human history, from the very first humans to walk the earth to the radical – and sometimes devastating – breakthroughs of the Cognitive, Agricultural and Scientific Revolutions. Drawing on insights from biology, anthropology, paleontology and economics, he explores how the currents of history have shaped our human societies, the animals and plants around us, and even our personalities. Have we become happier as history has unfolded? Can we ever free our behaviour from the heritage of our ancestors? And what, if anything, can we do to influence the course of the centuries to come? <br /><br />Bold, wide-ranging and provocative, Sapiens challenges everything we thought we knew about being human: our thoughts, our actions, our power ... and our future."
+          }
+        }
+      ]
+    }
+  }
+}
