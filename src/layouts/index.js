@@ -84,7 +84,8 @@ const TemplateWrapper = ({ children }) => (
           style={{
             listStyle: `none`,
             color: "inherit",
-            paddingTop: "1rem"
+            paddingTop: "1rem",
+            fontSize: "2rem"
           }}
         >
           <ListLink to="#">home</ListLink>

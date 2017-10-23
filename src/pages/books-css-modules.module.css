@@ -32,3 +32,36 @@
   flex: 1;
   /* margin-bottom: 0; */
 }
+
+.tabby {
+  width: 90%;
+}
+
+.tabby > a {
+  flex: 1;
+}
+
+.tabby > :first-child {
+  display: flex;
+  justify-content: space-evenly;
+}
+.tabby > :nth-child(even) {
+  border: none;
+}
+
+.tabPane {
+  border: none;
+}
+ui bottom attached segment active tab {
+  border: none;
+}
+
+.cardGroup {
+  justify-content: space-between;
+}
+
+.cardGroup::after {
+  content: "";
+  width: 33%;
+  height: 0;
+}

@@ -14,7 +14,7 @@ class IndexPage extends React.Component {
           alignItems: "center"
         }}
       >
-        <h3>keep coming back.</h3>
+        <h1 className="ui huge header">keep coming back.</h1>
       </div>
     );
   }
