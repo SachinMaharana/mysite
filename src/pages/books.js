@@ -2,7 +2,6 @@ import React from "react";
 import Link from "gatsby-link";
 
 const SecondPage = ({ data }) => {
-  console.log(data.dataJson.data.user);
   let user = data.dataJson.data.user;
   return (
     <div
@@ -17,7 +16,6 @@ const SecondPage = ({ data }) => {
       <p style={{ borderBottom: "2px solid black" }}>
         <strong>Books History</strong>
       </p>
-      <div style={{ display: "flex" }} />
     </div>
   );
 };
