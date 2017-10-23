@@ -1,21 +1,41 @@
 import React from "react";
 import Link from "gatsby-link";
+import styles from "./books-css-modules.module.css";
 
 const SecondPage = ({ data }) => {
   let user = data.dataJson.data.user;
   return (
     <div
       style={{
-        textAlign: "center",
         marginTop: "3rem",
         display: "flex",
         justifyContent: "center",
-        alignItems: "center"
+        alignItems: "center",
+        flexDirection: "column"
       }}
     >
-      <p style={{ borderBottom: "2px solid black" }}>
+      <div
+        style={{
+          borderBottom: "2px solid black",
+          textAlign: "center"
+        }}
+      >
         <strong>Books History</strong>
-      </p>
+      </div>
+      <div className={styles.userShelvesContainer}>
+        <div className={styles.userShelvesContainer__child}>
+          <div>{user.userShelves.currentlyReading}</div>
+          <div>Curently Reading</div>
+        </div>
+        <div className={styles.userShelvesContainer__child}>
+          <div>{user.userShelves.read}</div>
+          <div>Read</div>
+        </div>
+        <div className={styles.userShelvesContainer__child}>
+          <div>{user.userShelves.toRead}</div>
+          <div>To Read</div>
+        </div>
+      </div>
     </div>
   );
 };
