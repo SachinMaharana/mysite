@@ -88,7 +88,7 @@ const TemplateWrapper = ({ children }) => (
           }}
         >
           <ListLink to="#">home</ListLink>
-          <ListLink to="/books/">books</ListLink>
+          <ListLink to="/books">books</ListLink>
         </ul>
       </header>
       {children()}
