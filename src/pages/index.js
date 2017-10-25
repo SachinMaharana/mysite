@@ -4,7 +4,7 @@ import Typist from "react-typist";
 import { Divider, Segment, Header } from "semantic-ui-react";
 import styles from "./index-css-modules.module.css";
 import { Progress } from "semantic-ui-react";
-import "semantic-ui-css/semantic.min.css";
+import "./semantic.min.css";
 
 const DividerExampleInverted = () => <Divider horizontal>SKILLS</Divider>;
 
