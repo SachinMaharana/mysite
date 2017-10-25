@@ -1,7 +1,26 @@
 import React from "react";
 import Link from "gatsby-link";
 import Typist from "react-typist";
+import { Divider, Segment, Header } from "semantic-ui-react";
+import styles from "./index-css-modules.module.css";
+import { Progress } from "semantic-ui-react";
+import "semantic-ui-css/semantic.min.css";
 
+const DividerExampleInverted = () => <Divider horizontal>SKILLS</Divider>;
+
+const SkillBar = props => {
+  return (
+    <div className={styles.progress}>
+      <p className={styles.skillbar__label}>{props.label}</p>
+      <p className={styles.skillbar__percent}>{props.percent}%</p>
+      <Progress
+        percent={props.percent}
+        indicating
+        className={styles.skillbar}
+      />
+    </div>
+  );
+};
 class IndexPage extends React.Component {
   render() {
     return (
@@ -10,11 +29,22 @@ class IndexPage extends React.Component {
           textAlign: "center",
           marginTop: "10rem",
           display: "flex",
+          flexDirection: "column",
           justifyContent: "center",
           alignItems: "center"
         }}
       >
         <h1 className="ui huge header">keep coming back.</h1>
+        <div>
+          <DividerExampleInverted />
+        </div>
+        <div className={styles.skillContainer}>
+          <SkillBar percent={43} label="React" />
+          <SkillBar percent={48} label="Javascript" />
+          <SkillBar percent={70} label="HTML/CSS" />
+          <SkillBar percent={55} label="Node JS" />
+          <SkillBar percent={70} label="ES6" />
+        </div>
       </div>
     );
   }

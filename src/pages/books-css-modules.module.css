@@ -57,11 +57,15 @@ ui bottom attached segment active tab {
 }
 
 .cardGroup {
-  justify-content: space-between;
+  justify-content: center;
 }
 
 .cardGroup::after {
   content: "";
   width: 33%;
   height: 0;
+}
+
+.ui bottom attached segment active tab {
+  border: 0;
 }

@@ -1,6 +1,5 @@
 import React from "react";
 import Link from "gatsby-link";
-import "semantic-ui-css/semantic.min.css";
 import styles from "./books-css-modules.module.css";
 import { Label, Menu, Tab } from "semantic-ui-react";
 import { Card, Icon, Image } from "semantic-ui-react";
@@ -34,6 +33,15 @@ const src = image;
       </a>
     </Card.Content> */
 }
+
+// style={{
+//   display: "grid",
+//   gridTemplateColumns: "1fr 1fr 1fr",
+//   gridTemplateRows: "auto",
+//   flexWrap: "nowrap",
+//   justifyContent: "center",
+//   width: "inherit"
+// }}
 
 const CardExampleColored = ({ reading }) => {
   return (
@@ -95,19 +103,19 @@ const TabExampleCustomMenuItem = ({ props, reading, read, toRead }) => {
   const panes = [
     {
       menuItem: (
-        <Menu.Item key="cr" style={{ fontSize: "1.5em" }}>
+        <Menu.Item key="cr" style={{ fontSize: "1.2em" }}>
           Reading<Label>{props.currentlyReading}</Label>
         </Menu.Item>
       ),
       render: () => (
-        <Tab.Pane>
+        <Tab.Pane className={styles.pane}>
           <CardExampleColored reading={reading} />
         </Tab.Pane>
       )
     },
     {
       menuItem: (
-        <Menu.Item key="r" style={{ fontSize: "1.5em" }}>
+        <Menu.Item key="r" style={{ fontSize: "1.2em" }}>
           Read<Label>{props.read}</Label>
         </Menu.Item>
       ),
@@ -119,7 +127,7 @@ const TabExampleCustomMenuItem = ({ props, reading, read, toRead }) => {
     },
     {
       menuItem: (
-        <Menu.Item key="toRead" style={{ fontSize: "1.5em" }}>
+        <Menu.Item key="toRead" style={{ fontSize: "1.2em" }}>
           To Read<Label>{props.toRead}</Label>
         </Menu.Item>
       ),
@@ -134,7 +142,10 @@ const TabExampleCustomMenuItem = ({ props, reading, read, toRead }) => {
     <Tab
       panes={panes}
       className={styles.tabby}
-      menu={{ secondary: true, pointing: true }}
+      menu={{
+        secondary: true,
+        pointing: true
+      }}
     />
   );
 };
