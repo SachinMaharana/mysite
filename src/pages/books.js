@@ -4,7 +4,7 @@ import "semantic-ui-css/semantic.min.css";
 import styles from "./books-css-modules.module.css";
 import { Label, Menu, Tab } from "semantic-ui-react";
 import { Card, Icon, Image } from "semantic-ui-react";
-import image from "../images/white-image.png";
+import image from "./images/white-image.jpg";
 
 const src = image;
 // image = "/assets/images/avatar/large/elliot.jpg";
@@ -45,20 +45,21 @@ const CardExampleColored = ({ reading }) => {
           return x;
         }
 
-        let imageUrl = book.book.imageUrl.replace(x, replacer);
-        if (imageUrl.includes("nophoto") && book.book.title === "Earthcore") {
-          imageUrl =
-            "https://images.gr-assets.com/books/1173555424l/303110.jpg";
-        }
-        if (
-          imageUrl.includes("nophoto") &&
-          book.book.title === "Norwegian Wood"
-        ) {
-          imageUrl = "https://images.gr-assets.com/books/1386924361l/11297.jpg";
-        }
-        if (imageUrl.includes("nophoto")) {
-          imageUrl = src;
-        }
+        // let imageUrl = book.book.imageUrl.replace(x, replacer);
+        let imageUrl = book.book.imageUrl;
+        // if (imageUrl.includes("nophoto") && book.book.title === "Earthcore") {
+        //   imageUrl =
+        //     "https://images.gr-assets.com/books/1173555424l/303110.jpg";
+        // }
+        // if (
+        //   imageUrl.includes("nophoto") &&
+        //   book.book.title === "Norwegian Wood"
+        // ) {
+        //   imageUrl = "https://images.gr-assets.com/books/1386924361l/11297.jpg";
+        // }
+        // if (imageUrl.includes("nophoto")) {
+        //   imageUrl = src;
+        // }
         const extra = (
           <div style={{ display: "flex", justifyContent: "space-between" }}>
             <a>
@@ -74,11 +75,10 @@ const CardExampleColored = ({ reading }) => {
             </a>
           </div>
         );
-
-        // console.log(imageUrl);
+        let path = require(imageUrl);
         return (
-          <Card key={book.book.title}>
-            <Image src={imageUrl} shape="circular" height="400rem" />
+          <Card key={book.book.id}>
+            <Image src={path} shape="circular" height="400rem" />
             <Card.Content>
               <Card.Header>{book.book.title}</Card.Header>
               <Card.Meta>{book.book.authors}</Card.Meta>
@@ -141,7 +141,6 @@ const TabExampleCustomMenuItem = ({ props, reading, read, toRead }) => {
 
 const SecondPage = ({ data }) => {
   let user = data.dataJson.data.user;
-  console.log(user);
   return (
     <div
       style={{
@@ -179,7 +178,7 @@ const SecondPage = ({ data }) => {
         props={user.userShelves}
         reading={user.currentReading}
         read={user.read}
-        toRead={user.toReadOn}
+        toRead={user.toRead}
       />
     </div>
   );
@@ -206,6 +205,7 @@ export const query = graphql`
           }
           currentReading {
             book {
+              id
               imageUrl
               title
               numOfPages
@@ -218,6 +218,7 @@ export const query = graphql`
           }
           read {
             book {
+              id
               imageUrl
               title
               numOfPages
@@ -226,11 +227,11 @@ export const query = graphql`
               publicationYear
               averageRating
               ratingCount
-              description
             }
           }
-          toReadOn {
+          toRead {
             book {
+              id
               imageUrl
               title
               numOfPages
@@ -239,7 +240,6 @@ export const query = graphql`
               publicationYear
               averageRating
               ratingCount
-              description
             }
           }
         }
