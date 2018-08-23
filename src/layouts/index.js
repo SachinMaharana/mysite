@@ -76,7 +76,7 @@ const TemplateWrapper = ({ children }) => (
               <Typist.Delay ms={500} />
               <Typist.Backspace count={6} delay={1000} />
               <Typist.Delay ms={1250} />*/}
-              software developer
+              remote software developer
             </Typist>
           </div>
         </div>
