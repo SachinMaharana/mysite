@@ -44,14 +44,14 @@ class IndexPage extends React.Component {
         <div className={styles.skillContainer}>
           <SkillBar percent={80} label="Go" />
           <SkillBar percent={60} label="Kubernetes" />
-          <SkillBar percent={55} label="Node JS" />
+          <SkillBar percent={75} label="Node JS" />
           <SkillBar percent={50} label="Docker" />
           <SkillBar percent={30} label="Ansible" />
           <SkillBar percent={48} label="Python" />
-          <SkillBar percent={43} label="React" />
-          <SkillBar percent={48} label="Javascript" />
+          <SkillBar percent={90} label="React" />
+          <SkillBar percent={75} label="Javascript" />
           <SkillBar percent={70} label="HTML/CSS" />
-          <SkillBar percent={47} label="VueJs" />
+          <SkillBar percent={70} label="VueJs" />
           <SkillBar percent={60} label="Devops" />
         </div>
       </div>
