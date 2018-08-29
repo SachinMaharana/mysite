@@ -62,7 +62,7 @@ const TemplateWrapper = ({ children }) => (
             <Typist
               avgTypingSpeed={80}
               cursor={{ hideWhenDone: true, blink: true }}
-              startDelay={1600}
+              startDelay={1000}
             >
               {/* son
               <Typist.Delay ms={500} />
